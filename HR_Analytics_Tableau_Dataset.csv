@@ -1,0 +1,1001 @@
+Employee_ID,Gender,Age,Department,Job_Role,Education,Marital_Status,Hire_Date,Employment_Status,Exit_Date,Monthly_Income_INR,Years_At_Company,Years_In_Current_Role,Job_Level,Overtime,Business_Travel,Job_Satisfaction,Work_Life_Balance,Performance_Rating,Training_Hours_Last_Year,Promotions
+EMP0001,Male,38,Customer Support,Team Lead,Master's,Married,2016-09-25,Active,,22846,10,1,3,Yes,Non-Travel,2,4,3,9,4
+EMP0002,Male,48,Data & Analytics,Data Analyst,Master's,Divorced,2001-06-08,Resigned,2023-03-24,37226,25,7,5,Yes,Travel_Frequently,2,1,3,50,2
+EMP0003,Female,54,Sales,Sales Executive,High School,Married,2023-10-07,Active,,48118,3,1,1,Yes,Travel_Rarely,4,1,3,39,1
+EMP0004,Female,43,Customer Support,Support Manager,Bachelor's,Single,2025-07-01,Active,,28287,1,1,1,Yes,Travel_Frequently,4,1,3,42,0
+EMP0005,Female,46,Sales,Sales Manager,Doctorate,Married,2015-02-13,Active,,25491,11,4,3,No,Travel_Frequently,1,1,3,36,1
+EMP0006,Female,56,Customer Support,Team Lead,High School,Single,2008-01-21,Resigned,2026-04-06,25925,18,0,5,No,Travel_Rarely,4,1,4,23,2
+EMP0007,Female,33,Sales,Sales Manager,High School,Single,2018-06-22,Active,,30570,8,5,3,Yes,Non-Travel,3,2,3,17,3
+EMP0008,Female,27,Customer Support,Team Lead,Doctorate,Single,2022-03-04,Active,,42148,4,2,2,No,Travel_Rarely,2,2,2,42,2
+EMP0009,Female,35,Sales,Sales Manager,Master's,Married,2022-05-07,Active,,57851,4,4,2,Yes,Non-Travel,1,4,4,11,1
+EMP0010,Male,31,Finance,Finance Manager,High School,Single,2013-03-31,Active,,69838,13,2,4,No,Travel_Frequently,2,1,3,71,4
+EMP0011,Female,44,Customer Support,Support Executive,Master's,Single,2015-02-13,Active,,50929,11,3,3,Yes,Travel_Frequently,3,4,3,60,2
+EMP0012,Male,36,Data & Analytics,Data Scientist,High School,Married,2023-03-10,Active,,37563,3,1,1,Yes,Travel_Frequently,2,3,2,73,1
+EMP0013,Male,54,Operations,Process Analyst,Doctorate,Married,2008-06-24,Active,,40023,18,9,5,No,Non-Travel,2,2,2,28,2
+EMP0014,Male,40,Data & Analytics,Data Analyst,Bachelor's,Single,2003-08-09,Active,,67811,23,6,5,No,Travel_Frequently,1,1,3,57,1
+EMP0015,Male,27,IT,IT Support Specialist,High School,Single,2024-10-15,Active,,43880,2,2,1,Yes,Travel_Rarely,1,1,4,31,1
+EMP0016,Female,28,Human Resources,Recruiter,High School,Divorced,2025-09-07,Active,,19605,1,1,1,Yes,Travel_Rarely,3,1,3,15,0
+EMP0017,Female,32,Human Resources,Recruiter,Bachelor's,Married,2025-03-21,Active,,36700,1,1,1,No,Travel_Rarely,3,2,2,75,0
+EMP0018,Male,33,IT,IT Support Specialist,Doctorate,Married,2012-04-22,Active,,61968,14,2,4,No,Travel_Rarely,2,1,2,15,1
+EMP0019,Female,33,Marketing,Digital Marketer,Master's,Single,2021-08-11,Active,,50176,5,4,2,Yes,Non-Travel,4,2,3,53,0
+EMP0020,Female,21,Sales,Sales Manager,Doctorate,Single,2024-08-24,Active,,51128,2,2,1,No,Travel_Frequently,4,4,3,72,1
+EMP0021,Male,41,Operations,Operations Executive,Doctorate,Single,2008-09-02,Active,,18108,18,4,5,No,Non-Travel,2,4,2,70,0
+EMP0022,Male,33,IT,IT Support Specialist,Bachelor's,Single,2021-10-28,Resigned,2024-12-11,67431,5,3,2,No,Non-Travel,2,4,3,34,0
+EMP0023,Female,50,IT,Software Developer,Master's,Married,2006-04-16,Active,,51182,20,7,5,Yes,Travel_Frequently,1,1,3,14,2
+EMP0024,Male,47,Customer Support,Support Executive,Doctorate,Divorced,2008-03-24,Active,,49236,18,6,5,No,Travel_Rarely,4,1,3,65,0
+EMP0025,Male,21,Customer Support,Support Manager,Doctorate,Divorced,2022-11-23,Active,,62001,3,2,1,No,Travel_Frequently,4,4,3,77,0
+EMP0026,Male,36,Customer Support,Support Manager,High School,Divorced,2010-12-27,Resigned,2019-10-02,45444,15,3,4,No,Travel_Frequently,3,4,4,46,1
+EMP0027,Female,27,Marketing,Marketing Executive,High School,Divorced,2020-09-17,Resigned,2026-06-10,32245,6,3,2,No,Travel_Rarely,1,1,3,56,1
+EMP0028,Male,52,Data & Analytics,BI Developer,High School,Divorced,2012-12-19,Active,,34251,13,6,4,No,Non-Travel,3,4,3,1,3
+EMP0029,Female,33,IT,IT Support Specialist,Doctorate,Married,2018-07-23,Active,,39646,8,7,3,Yes,Non-Travel,2,1,2,71,4
+EMP0030,Female,21,Finance,Accountant,Master's,Single,2024-02-29,Active,,50097,2,1,1,Yes,Non-Travel,3,2,4,9,0
+EMP0031,Female,32,Human Resources,HR Manager,High School,Single,2017-09-20,Active,,37512,9,9,3,Yes,Non-Travel,1,3,2,3,0
+EMP0032,Male,41,Sales,Sales Manager,Doctorate,Married,2005-08-10,Active,,43002,21,6,5,No,Travel_Frequently,4,2,3,51,4
+EMP0033,Female,21,Sales,Sales Manager,Bachelor's,Divorced,2022-08-20,Active,,33744,4,4,2,Yes,Travel_Rarely,3,1,3,56,1
+EMP0034,Male,54,Data & Analytics,Data Analyst,Doctorate,Single,2011-09-21,Active,,64702,15,7,4,Yes,Travel_Frequently,2,2,3,59,1
+EMP0035,Male,57,Human Resources,HR Manager,Bachelor's,Single,2022-05-25,Active,,57994,4,1,2,Yes,Non-Travel,3,1,3,20,1
+EMP0036,Male,33,Marketing,Digital Marketer,Bachelor's,Divorced,2016-04-13,Active,,30320,10,4,3,No,Travel_Frequently,4,1,3,21,3
+EMP0037,Male,50,Finance,Accountant,High School,Single,2025-04-01,Active,,28745,1,1,1,Yes,Travel_Rarely,2,3,3,29,0
+EMP0038,Female,31,Finance,Financial Analyst,Doctorate,Divorced,2023-11-14,Resigned,2026-06-19,77047,2,0,1,Yes,Travel_Rarely,4,3,4,77,0
+EMP0039,Male,30,Human Resources,HR Executive,Bachelor's,Divorced,2014-12-12,Active,,52270,11,10,3,Yes,Travel_Frequently,2,4,3,29,0
+EMP0040,Female,34,Operations,Process Analyst,Doctorate,Divorced,2016-05-30,Active,,62631,10,1,3,No,Travel_Rarely,1,4,3,73,4
+EMP0041,Male,31,Marketing,Digital Marketer,Bachelor's,Married,2016-04-03,Active,,43008,10,9,3,No,Non-Travel,1,3,3,70,1
+EMP0042,Male,47,Operations,Operations Manager,Doctorate,Married,2022-05-21,Active,,54718,4,0,2,Yes,Non-Travel,3,3,3,15,0
+EMP0043,Male,44,Sales,Sales Manager,High School,Single,2021-08-06,Active,,18509,5,4,2,Yes,Travel_Rarely,2,4,3,27,2
+EMP0044,Female,56,Data & Analytics,Data Scientist,Master's,Single,2018-04-22,Active,,26017,8,0,3,Yes,Travel_Frequently,1,4,3,1,0
+EMP0045,Male,35,IT,Software Developer,Master's,Married,2017-05-22,Active,,60230,9,7,3,Yes,Travel_Rarely,1,2,3,48,1
+EMP0046,Female,59,Operations,Operations Manager,High School,Single,2017-12-05,Active,,28809,8,5,3,Yes,Travel_Frequently,1,1,3,27,1
+EMP0047,Female,21,Operations,Process Analyst,Bachelor's,Divorced,2024-09-10,Active,,37193,2,1,1,Yes,Non-Travel,4,3,3,73,1
+EMP0048,Male,35,Sales,Sales Executive,High School,Divorced,2023-07-16,Resigned,2023-12-13,41617,3,1,1,Yes,Travel_Frequently,1,1,3,10,0
+EMP0049,Male,40,IT,System Administrator,Bachelor's,Divorced,2013-01-05,Active,,68265,13,2,4,No,Travel_Frequently,1,4,3,55,1
+EMP0050,Male,44,IT,IT Support Specialist,Bachelor's,Married,2011-10-30,Active,,76496,15,8,4,Yes,Travel_Frequently,3,4,3,45,2
+EMP0051,Female,46,Finance,Accountant,Master's,Married,2016-04-23,Active,,35381,10,4,3,No,Travel_Frequently,2,3,2,30,2
+EMP0052,Female,25,Sales,Sales Executive,Bachelor's,Single,2018-12-12,Resigned,2025-03-30,37352,7,2,2,No,Travel_Rarely,3,1,2,24,3
+EMP0053,Female,56,Human Resources,HR Executive,Doctorate,Divorced,2014-08-28,Active,,18010,12,5,4,No,Travel_Frequently,4,4,3,58,1
+EMP0054,Male,49,Human Resources,HR Executive,Master's,Divorced,2021-05-19,Active,,32732,5,0,2,Yes,Travel_Frequently,4,2,4,58,1
+EMP0055,Male,49,Data & Analytics,BI Developer,Bachelor's,Single,2014-07-16,Active,,36392,12,7,4,No,Non-Travel,4,2,2,23,1
+EMP0056,Male,28,Finance,Finance Manager,High School,Single,2020-12-31,Active,,61591,5,2,2,Yes,Travel_Frequently,1,2,3,68,1
+EMP0057,Male,34,Marketing,Marketing Executive,Bachelor's,Married,2021-11-06,Active,,21488,4,1,2,No,Travel_Frequently,2,3,3,57,0
+EMP0058,Female,27,Customer Support,Team Lead,Bachelor's,Single,2025-07-02,Active,,21519,1,0,1,No,Travel_Frequently,3,4,3,78,0
+EMP0059,Male,42,Marketing,Digital Marketer,Bachelor's,Married,2015-07-21,Active,,43471,11,3,3,No,Travel_Rarely,1,3,3,18,3
+EMP0060,Female,56,Finance,Accountant,Bachelor's,Single,2023-01-03,Active,,36934,3,3,1,No,Non-Travel,1,4,3,40,0
+EMP0061,Male,40,Operations,Process Analyst,High School,Divorced,2019-11-07,Active,,36002,6,0,2,Yes,Travel_Frequently,3,2,2,49,0
+EMP0062,Male,38,Marketing,Marketing Manager,High School,Married,2017-03-04,Active,,62674,9,5,3,No,Travel_Rarely,4,2,4,62,3
+EMP0063,Male,27,Sales,Account Manager,Doctorate,Single,2020-08-08,Active,,32103,6,4,2,No,Travel_Rarely,3,2,3,25,0
+EMP0064,Male,30,Marketing,Marketing Manager,Doctorate,Married,2021-01-13,Active,,59703,5,5,2,No,Travel_Rarely,1,3,3,54,0
+EMP0065,Male,39,Customer Support,Team Lead,Bachelor's,Divorced,2025-08-25,Active,,34103,1,1,1,Yes,Travel_Frequently,1,1,3,68,0
+EMP0066,Male,51,Human Resources,HR Executive,Bachelor's,Married,2025-04-23,Active,,60544,1,1,1,Yes,Travel_Frequently,4,1,3,10,0
+EMP0067,Male,35,Operations,Operations Executive,Master's,Divorced,2025-09-01,Active,,39423,1,0,1,No,Travel_Frequently,1,1,3,25,0
+EMP0068,Male,42,Sales,Sales Executive,High School,Single,2016-03-07,Active,,45505,10,10,3,Yes,Travel_Rarely,1,4,3,48,4
+EMP0069,Male,32,Finance,Finance Manager,Master's,Single,2016-07-24,Active,,51015,10,8,3,No,Non-Travel,4,4,2,18,1
+EMP0070,Male,54,Finance,Finance Manager,High School,Single,2016-04-27,Resigned,2023-09-13,52707,10,5,3,Yes,Travel_Frequently,2,3,2,74,3
+EMP0071,Female,30,Sales,Sales Manager,Bachelor's,Married,2017-06-13,Active,,20846,9,8,3,Yes,Travel_Frequently,4,1,3,32,2
+EMP0072,Male,50,IT,System Administrator,Doctorate,Divorced,2008-05-16,Active,,62996,18,2,5,No,Non-Travel,3,2,4,55,4
+EMP0073,Female,41,Data & Analytics,BI Developer,Doctorate,Divorced,2024-02-08,Active,,38331,2,0,1,No,Travel_Frequently,3,4,3,15,0
+EMP0074,Male,45,Marketing,Marketing Manager,Master's,Married,2008-01-01,Resigned,2009-08-12,62806,18,2,5,No,Travel_Rarely,2,2,3,39,0
+EMP0075,Female,35,Marketing,Digital Marketer,Doctorate,Divorced,2013-08-09,Active,,63434,13,0,4,No,Travel_Rarely,4,4,4,1,0
+EMP0076,Female,55,Finance,Accountant,Bachelor's,Single,2023-03-02,Active,,47677,3,3,1,No,Travel_Rarely,3,1,3,12,0
+EMP0077,Male,59,Customer Support,Support Manager,Master's,Married,2012-04-30,Active,,35835,14,1,4,Yes,Travel_Frequently,4,1,3,17,0
+EMP0078,Female,54,Finance,Finance Manager,High School,Married,2024-02-06,Active,,63992,2,2,1,Yes,Travel_Rarely,2,3,3,50,0
+EMP0079,Male,48,Sales,Account Manager,Doctorate,Divorced,2020-07-17,Active,,47773,6,4,2,Yes,Travel_Frequently,2,1,4,0,2
+EMP0080,Female,26,Marketing,Digital Marketer,Doctorate,Single,2019-10-07,Active,,41225,7,7,2,Yes,Travel_Frequently,4,3,3,43,1
+EMP0081,Female,38,Sales,Sales Manager,Master's,Married,2021-01-12,Active,,32700,5,4,2,No,Non-Travel,2,4,4,12,0
+EMP0082,Female,53,Human Resources,HR Manager,Master's,Divorced,2001-07-04,Active,,55128,25,7,5,Yes,Travel_Rarely,1,4,4,47,1
+EMP0083,Male,33,Sales,Sales Manager,Doctorate,Divorced,2018-08-16,Resigned,2019-08-18,25976,8,7,3,Yes,Travel_Rarely,2,4,3,0,2
+EMP0084,Male,45,Data & Analytics,Data Scientist,Bachelor's,Single,2015-11-23,Active,,52064,10,5,3,Yes,Non-Travel,1,3,3,73,0
+EMP0085,Female,24,Operations,Process Analyst,Master's,Single,2019-08-13,Resigned,2022-06-29,33971,7,2,2,Yes,Travel_Frequently,4,2,2,63,0
+EMP0086,Male,21,IT,IT Support Specialist,High School,Married,2023-03-13,Active,,73764,3,0,1,No,Travel_Rarely,4,2,3,55,0
+EMP0087,Male,36,Customer Support,Support Executive,Master's,Single,2019-12-11,Active,,38500,6,3,2,Yes,Travel_Frequently,2,2,3,34,3
+EMP0088,Male,56,Finance,Finance Manager,High School,Single,2006-01-16,Active,,69416,20,8,5,No,Non-Travel,3,1,4,33,0
+EMP0089,Female,56,Operations,Process Analyst,Bachelor's,Married,2014-03-02,Active,,49446,12,10,4,No,Travel_Frequently,1,1,2,11,3
+EMP0090,Female,50,Operations,Operations Manager,Bachelor's,Single,2001-01-21,Active,,19363,25,6,5,No,Travel_Rarely,2,1,3,25,3
+EMP0091,Male,31,Finance,Financial Analyst,High School,Married,2025-04-26,Active,,69239,1,1,1,No,Travel_Rarely,1,2,3,64,0
+EMP0092,Female,47,IT,Software Developer,Master's,Married,2024-11-16,Active,,30291,1,0,1,No,Non-Travel,1,3,4,54,0
+EMP0093,Female,56,Finance,Accountant,Bachelor's,Divorced,2001-12-29,Active,,34314,24,7,5,No,Non-Travel,1,2,4,75,0
+EMP0094,Male,37,Data & Analytics,Data Analyst,Doctorate,Divorced,2022-07-05,Active,,46095,4,0,2,No,Non-Travel,2,1,4,58,0
+EMP0095,Female,53,Sales,Sales Manager,High School,Single,2002-03-05,Active,,42149,24,6,5,Yes,Travel_Rarely,2,4,2,1,1
+EMP0096,Female,39,IT,System Administrator,High School,Single,2023-02-21,Active,,29964,3,0,1,Yes,Travel_Frequently,3,2,3,68,1
+EMP0097,Female,43,IT,Software Developer,Bachelor's,Divorced,2014-04-20,Active,,60142,12,1,4,Yes,Travel_Frequently,4,4,3,49,2
+EMP0098,Female,43,Operations,Process Analyst,Bachelor's,Divorced,2013-12-05,Active,,55776,12,0,4,No,Non-Travel,3,3,3,63,3
+EMP0099,Female,48,Marketing,Marketing Manager,Bachelor's,Married,2012-07-26,Active,,46478,14,7,4,No,Travel_Rarely,1,2,3,26,3
+EMP0100,Female,21,Sales,Sales Executive,Master's,Single,2024-05-15,Active,,33468,2,0,1,No,Non-Travel,4,3,3,8,1
+EMP0101,Male,28,Finance,Financial Analyst,Doctorate,Divorced,2025-08-25,Active,,44982,1,1,1,No,Travel_Rarely,2,2,3,47,0
+EMP0102,Female,50,Marketing,Marketing Executive,High School,Divorced,2023-02-16,Active,,27052,3,0,1,No,Travel_Frequently,1,2,3,28,0
+EMP0103,Male,57,Human Resources,Recruiter,Master's,Single,2014-07-07,Active,,59120,12,1,4,Yes,Travel_Frequently,3,1,3,30,1
+EMP0104,Male,33,Marketing,Marketing Manager,Bachelor's,Married,2014-07-23,Active,,52950,12,3,4,Yes,Travel_Rarely,2,1,4,7,1
+EMP0105,Male,22,Operations,Process Analyst,Doctorate,Single,2025-04-30,Active,,29788,1,0,1,Yes,Travel_Frequently,3,3,4,2,0
+EMP0106,Female,22,Data & Analytics,Data Scientist,High School,Single,2024-05-06,Active,,46352,2,1,1,No,Travel_Rarely,2,4,4,54,1
+EMP0107,Male,59,Operations,Process Analyst,Doctorate,Single,2008-12-04,Active,,60411,17,4,5,No,Non-Travel,3,1,2,13,4
+EMP0108,Male,59,Customer Support,Support Manager,High School,Divorced,2007-11-25,Active,,59119,18,3,5,Yes,Non-Travel,1,4,3,24,4
+EMP0109,Male,43,Data & Analytics,Data Scientist,Bachelor's,Divorced,2020-09-19,Resigned,2022-04-10,31266,6,5,2,No,Travel_Rarely,2,3,4,59,0
+EMP0110,Male,43,Human Resources,Recruiter,Master's,Single,2019-03-30,Active,,30497,7,2,2,Yes,Travel_Frequently,2,4,4,56,2
+EMP0111,Male,23,Marketing,Marketing Executive,Bachelor's,Divorced,2021-02-24,Active,,53876,5,1,2,Yes,Travel_Rarely,1,1,3,12,0
+EMP0112,Male,59,Finance,Finance Manager,High School,Divorced,2020-09-18,Resigned,2021-11-17,60985,6,0,2,No,Travel_Frequently,4,1,3,67,0
+EMP0113,Male,45,Marketing,Marketing Executive,Master's,Single,2002-07-21,Active,,63406,24,8,5,Yes,Travel_Rarely,4,4,3,9,2
+EMP0114,Male,50,Finance,Accountant,Bachelor's,Single,2021-05-01,Active,,69857,5,0,2,Yes,Travel_Frequently,2,3,2,0,2
+EMP0115,Male,40,Sales,Account Manager,Doctorate,Single,2023-08-27,Active,,39835,3,3,1,No,Non-Travel,3,1,2,61,1
+EMP0116,Male,23,IT,Software Developer,Bachelor's,Single,2023-11-14,Active,,63473,2,2,1,No,Travel_Rarely,2,2,3,69,0
+EMP0117,Male,59,Sales,Sales Manager,Doctorate,Single,2002-03-29,Active,,42155,24,0,5,No,Non-Travel,3,4,2,69,2
+EMP0118,Male,47,IT,IT Support Specialist,Master's,Divorced,2007-06-07,Active,,41482,19,9,5,Yes,Travel_Frequently,4,4,3,37,1
+EMP0119,Male,56,IT,Software Developer,Master's,Single,2022-08-29,Active,,59579,4,4,2,Yes,Non-Travel,2,3,4,52,2
+EMP0120,Male,49,IT,System Administrator,Master's,Single,2021-09-02,Resigned,2023-08-12,71490,5,3,2,Yes,Travel_Frequently,3,1,4,62,0
+EMP0121,Male,41,Operations,Operations Manager,Bachelor's,Divorced,2002-02-08,Active,,31088,24,8,5,No,Travel_Frequently,1,1,2,43,4
+EMP0122,Male,45,Operations,Operations Manager,Master's,Single,2015-02-14,Active,,24663,11,7,3,No,Non-Travel,1,4,2,58,4
+EMP0123,Female,42,Customer Support,Team Lead,Bachelor's,Divorced,2010-07-08,Active,,42229,16,1,5,No,Travel_Frequently,3,1,3,45,2
+EMP0124,Female,42,Operations,Operations Manager,High School,Single,2020-12-08,Active,,62771,5,0,2,Yes,Non-Travel,3,3,3,62,0
+EMP0125,Female,26,Sales,Sales Manager,Bachelor's,Single,2020-03-22,Active,,55971,6,4,2,No,Travel_Frequently,2,2,4,35,3
+EMP0126,Male,55,Customer Support,Support Executive,High School,Single,2017-12-12,Active,,24021,8,0,3,Yes,Non-Travel,2,1,3,70,3
+EMP0127,Male,32,Finance,Accountant,Bachelor's,Divorced,2014-09-06,Active,,38882,12,2,4,Yes,Non-Travel,2,4,4,75,2
+EMP0128,Female,52,Customer Support,Support Manager,Doctorate,Single,2006-12-16,Active,,51278,19,1,5,No,Non-Travel,1,1,4,43,4
+EMP0129,Female,35,Finance,Financial Analyst,Bachelor's,Married,2016-10-09,Active,,71005,10,6,3,Yes,Non-Travel,4,3,2,57,2
+EMP0130,Female,40,Operations,Process Analyst,Bachelor's,Divorced,2014-09-29,Active,,39961,12,5,4,Yes,Travel_Rarely,4,1,3,66,4
+EMP0131,Female,21,Human Resources,HR Manager,Doctorate,Married,2022-08-19,Resigned,2026-01-13,22109,4,4,2,Yes,Travel_Rarely,2,3,3,69,2
+EMP0132,Female,43,Finance,Financial Analyst,High School,Divorced,2008-07-24,Active,,58367,18,5,5,No,Travel_Rarely,2,4,4,10,1
+EMP0133,Female,58,Customer Support,Support Executive,Master's,Married,2003-03-06,Active,,56480,23,5,5,Yes,Travel_Rarely,1,2,3,17,3
+EMP0134,Male,46,Sales,Sales Manager,High School,Divorced,2023-07-31,Resigned,2024-04-07,19925,3,3,1,No,Travel_Rarely,4,3,3,48,0
+EMP0135,Female,31,IT,IT Support Specialist,Master's,Married,2014-07-02,Active,,34305,12,3,4,Yes,Travel_Rarely,4,1,3,9,2
+EMP0136,Male,34,Customer Support,Support Executive,High School,Married,2014-01-10,Active,,22418,12,6,4,No,Travel_Rarely,3,3,3,43,0
+EMP0137,Male,28,Customer Support,Team Lead,Master's,Divorced,2016-05-22,Active,,61931,10,9,3,No,Travel_Rarely,4,1,4,58,3
+EMP0138,Male,31,IT,System Administrator,Doctorate,Divorced,2024-02-25,Resigned,2024-07-24,52749,2,2,1,Yes,Travel_Frequently,1,2,4,2,0
+EMP0139,Female,42,Finance,Accountant,High School,Divorced,2009-03-25,Active,,64628,17,8,5,No,Non-Travel,2,1,2,34,0
+EMP0140,Female,31,Data & Analytics,Data Analyst,Doctorate,Single,2021-08-15,Active,,44571,5,2,2,No,Travel_Rarely,3,4,3,64,0
+EMP0141,Male,24,Human Resources,HR Manager,High School,Married,2025-07-19,Resigned,2026-06-18,28253,1,1,1,Yes,Non-Travel,3,1,3,58,0
+EMP0142,Female,31,Finance,Finance Manager,Bachelor's,Married,2016-04-11,Active,,67516,10,6,3,No,Travel_Frequently,1,2,3,6,3
+EMP0143,Female,49,Operations,Operations Executive,High School,Divorced,2002-02-15,Active,,30202,24,2,5,Yes,Travel_Frequently,2,2,3,11,3
+EMP0144,Male,35,Operations,Process Analyst,High School,Divorced,2014-01-09,Active,,32101,12,1,4,No,Travel_Rarely,4,4,4,68,1
+EMP0145,Female,23,IT,IT Support Specialist,Master's,Divorced,2021-09-07,Active,,40621,5,0,2,Yes,Travel_Frequently,4,4,3,32,2
+EMP0146,Male,55,Sales,Sales Manager,Bachelor's,Divorced,2017-03-18,Active,,19125,9,2,3,Yes,Travel_Rarely,4,2,3,15,2
+EMP0147,Male,32,Data & Analytics,BI Developer,High School,Single,2022-02-14,Active,,61126,4,1,2,No,Travel_Frequently,2,1,2,68,1
+EMP0148,Female,42,IT,Software Developer,High School,Married,2011-10-02,Active,,71025,15,0,4,Yes,Travel_Frequently,4,3,2,55,2
+EMP0149,Female,51,Sales,Sales Executive,Bachelor's,Single,2009-06-28,Active,,35669,17,8,5,Yes,Non-Travel,1,4,4,38,4
+EMP0150,Female,45,Customer Support,Support Executive,Doctorate,Married,2012-12-09,Active,,21230,13,9,4,Yes,Non-Travel,3,3,2,8,3
+EMP0151,Male,28,Data & Analytics,Data Analyst,High School,Divorced,2015-05-16,Active,,65587,11,7,3,Yes,Travel_Rarely,1,3,4,53,2
+EMP0152,Female,42,Marketing,Marketing Executive,Bachelor's,Divorced,2010-02-02,Active,,42010,16,3,5,No,Travel_Frequently,1,4,4,16,1
+EMP0153,Female,58,Marketing,Digital Marketer,Bachelor's,Married,2004-09-08,Active,,47853,22,8,5,Yes,Travel_Frequently,2,2,4,27,4
+EMP0154,Female,52,Marketing,Marketing Manager,Master's,Married,2009-04-22,Active,,54252,17,6,5,Yes,Travel_Rarely,1,1,3,18,0
+EMP0155,Female,46,IT,IT Support Specialist,Doctorate,Divorced,2024-06-03,Active,,51147,2,1,1,No,Non-Travel,3,3,2,23,1
+EMP0156,Male,46,Data & Analytics,Data Analyst,Master's,Single,2002-10-26,Active,,63722,24,9,5,No,Travel_Frequently,3,4,3,48,0
+EMP0157,Female,35,Data & Analytics,BI Developer,Doctorate,Single,2022-09-22,Resigned,2023-03-05,72040,4,1,2,Yes,Travel_Rarely,4,4,3,56,0
+EMP0158,Female,33,Customer Support,Team Lead,Master's,Divorced,2021-05-09,Active,,59842,5,4,2,Yes,Non-Travel,4,2,3,33,0
+EMP0159,Female,22,Finance,Financial Analyst,Bachelor's,Divorced,2023-07-29,Active,,70841,3,0,1,Yes,Travel_Rarely,4,3,2,7,1
+EMP0160,Female,56,Customer Support,Support Executive,Master's,Married,2022-04-20,Active,,51461,4,3,2,Yes,Travel_Frequently,2,2,3,4,0
+EMP0161,Male,47,Customer Support,Support Executive,Bachelor's,Divorced,2018-01-10,Active,,61259,8,3,3,No,Travel_Frequently,4,2,3,1,1
+EMP0162,Female,31,Data & Analytics,BI Developer,Bachelor's,Married,2020-08-12,Active,,61381,6,6,2,No,Non-Travel,4,4,3,1,0
+EMP0163,Female,39,IT,IT Support Specialist,Master's,Single,2012-02-29,Active,,37405,14,0,4,Yes,Travel_Frequently,2,3,2,71,2
+EMP0164,Female,31,IT,System Administrator,High School,Married,2021-08-08,Resigned,2023-03-01,43929,5,4,2,No,Travel_Rarely,4,1,3,41,1
+EMP0165,Male,21,IT,IT Support Specialist,Bachelor's,Divorced,2022-11-23,Active,,38136,3,1,1,No,Non-Travel,2,2,2,27,0
+EMP0166,Female,54,Marketing,Marketing Manager,Bachelor's,Married,2002-04-07,Active,,41576,24,6,5,Yes,Travel_Frequently,2,1,2,50,4
+EMP0167,Male,38,Data & Analytics,Data Scientist,Doctorate,Divorced,2022-05-27,Active,,40686,4,2,2,Yes,Travel_Frequently,4,2,4,32,1
+EMP0168,Male,47,IT,Software Developer,Master's,Single,2001-11-04,Active,,29363,25,1,5,No,Travel_Rarely,4,2,4,28,4
+EMP0169,Male,29,Customer Support,Team Lead,Doctorate,Married,2019-11-02,Resigned,2023-01-26,38197,7,0,2,Yes,Travel_Frequently,3,4,2,50,3
+EMP0170,Female,21,Marketing,Marketing Executive,Master's,Married,2024-09-04,Active,,53147,2,1,1,No,Travel_Rarely,2,4,4,0,1
+EMP0171,Male,23,Data & Analytics,Data Scientist,Doctorate,Divorced,2022-03-28,Active,,69563,4,4,2,No,Travel_Frequently,4,4,4,2,2
+EMP0172,Male,58,IT,Software Developer,High School,Married,2018-06-12,Active,,48722,8,8,3,No,Travel_Rarely,2,3,3,47,3
+EMP0173,Male,34,Data & Analytics,Data Scientist,Doctorate,Married,2024-08-31,Active,,45061,2,1,1,No,Travel_Rarely,2,2,3,72,1
+EMP0174,Female,34,Operations,Process Analyst,High School,Single,2020-09-22,Active,,55245,6,4,2,Yes,Non-Travel,4,3,2,11,2
+EMP0175,Male,26,Human Resources,HR Executive,Doctorate,Single,2017-11-04,Active,,24781,8,0,3,Yes,Non-Travel,3,1,4,66,1
+EMP0176,Female,56,Human Resources,Recruiter,Master's,Married,2006-10-19,Active,,44932,20,9,5,Yes,Travel_Frequently,1,4,3,79,3
+EMP0177,Female,41,Sales,Sales Executive,Bachelor's,Divorced,2012-10-18,Active,,39628,14,6,4,No,Travel_Frequently,1,4,3,9,4
+EMP0178,Male,36,Marketing,Digital Marketer,High School,Single,2009-08-27,Active,,41101,17,0,5,Yes,Non-Travel,1,4,2,48,1
+EMP0179,Male,44,Sales,Sales Manager,Bachelor's,Single,2019-01-22,Active,,46456,7,1,2,No,Travel_Frequently,1,4,2,21,2
+EMP0180,Male,29,Finance,Financial Analyst,Bachelor's,Divorced,2015-04-29,Active,,46123,11,0,3,No,Travel_Rarely,2,3,2,3,3
+EMP0181,Male,57,Human Resources,HR Manager,Master's,Single,2019-01-12,Active,,29967,7,4,2,Yes,Travel_Rarely,3,3,3,33,2
+EMP0182,Female,33,Customer Support,Support Executive,Doctorate,Single,2014-11-15,Resigned,2026-04-22,64110,11,0,3,No,Non-Travel,2,3,3,2,3
+EMP0183,Male,21,Sales,Sales Executive,Bachelor's,Single,2023-01-07,Active,,58876,3,1,1,Yes,Travel_Frequently,4,2,3,45,1
+EMP0184,Female,39,Data & Analytics,BI Developer,High School,Married,2025-09-22,Active,,32487,1,0,1,No,Travel_Rarely,4,1,2,33,0
+EMP0185,Female,57,Marketing,Digital Marketer,Doctorate,Single,2018-10-29,Active,,60629,8,4,3,Yes,Non-Travel,1,2,3,11,2
+EMP0186,Female,51,Customer Support,Support Executive,Bachelor's,Single,2024-03-30,Active,,34778,2,0,1,Yes,Non-Travel,4,3,2,16,1
+EMP0187,Male,55,Marketing,Marketing Manager,Bachelor's,Single,2023-10-26,Active,,59282,3,0,1,No,Travel_Rarely,1,1,2,49,0
+EMP0188,Female,45,Sales,Sales Manager,High School,Married,2008-04-17,Active,,44872,18,4,5,No,Non-Travel,2,4,2,70,0
+EMP0189,Male,41,Sales,Sales Executive,Master's,Single,2004-01-31,Active,,18507,22,5,5,Yes,Non-Travel,2,2,3,66,0
+EMP0190,Male,33,Human Resources,Recruiter,High School,Married,2025-01-23,Resigned,2025-11-03,47235,1,0,1,Yes,Travel_Rarely,4,3,3,34,0
+EMP0191,Female,43,Customer Support,Support Manager,Bachelor's,Divorced,2011-01-15,Active,,33560,15,3,4,Yes,Travel_Frequently,4,4,4,70,3
+EMP0192,Male,41,Human Resources,HR Manager,Doctorate,Divorced,2002-08-25,Active,,31561,24,5,5,No,Travel_Frequently,4,4,2,53,2
+EMP0193,Male,33,Marketing,Marketing Executive,Doctorate,Married,2010-09-25,Active,,64973,16,5,5,Yes,Non-Travel,2,3,3,28,0
+EMP0194,Female,29,Data & Analytics,BI Developer,Doctorate,Divorced,2015-12-08,Active,,54736,10,0,3,No,Travel_Rarely,4,4,3,78,2
+EMP0195,Male,24,Data & Analytics,Data Scientist,Doctorate,Married,2025-07-24,Active,,57637,1,0,1,No,Travel_Frequently,3,4,3,53,0
+EMP0196,Female,52,IT,IT Support Specialist,Master's,Divorced,2004-01-27,Active,,69130,22,7,5,Yes,Travel_Rarely,2,2,3,41,3
+EMP0197,Female,30,Human Resources,Recruiter,Doctorate,Married,2013-12-02,Active,,55230,12,2,4,No,Travel_Rarely,3,2,3,71,4
+EMP0198,Male,33,Finance,Accountant,High School,Single,2022-05-05,Active,,40254,4,2,2,Yes,Travel_Rarely,1,3,3,10,2
+EMP0199,Male,42,Human Resources,HR Executive,Doctorate,Divorced,2002-12-02,Active,,63448,23,10,5,No,Travel_Frequently,2,1,3,55,3
+EMP0200,Male,25,Marketing,Marketing Manager,Master's,Divorced,2019-06-10,Active,,52014,7,7,2,No,Travel_Rarely,3,1,3,29,3
+EMP0201,Female,35,Human Resources,HR Manager,Doctorate,Divorced,2016-01-30,Active,,44859,10,8,3,No,Travel_Frequently,1,4,3,14,3
+EMP0202,Female,42,Operations,Operations Manager,Bachelor's,Divorced,2006-09-08,Active,,31295,20,5,5,No,Non-Travel,3,4,3,73,3
+EMP0203,Female,36,Operations,Operations Manager,High School,Divorced,2011-11-18,Active,,58472,14,8,4,No,Travel_Rarely,2,4,4,18,2
+EMP0204,Female,51,IT,System Administrator,Doctorate,Divorced,2001-05-16,Active,,37042,25,4,5,Yes,Travel_Rarely,3,4,3,69,1
+EMP0205,Female,57,IT,Software Developer,Doctorate,Divorced,2020-11-17,Active,,72046,5,1,2,No,Non-Travel,4,4,3,32,0
+EMP0206,Male,36,Customer Support,Support Executive,High School,Divorced,2007-06-19,Active,,44166,19,4,5,Yes,Travel_Frequently,3,4,3,65,3
+EMP0207,Female,47,Marketing,Digital Marketer,Doctorate,Single,2000-08-10,Active,,32581,26,0,5,No,Travel_Frequently,3,2,3,34,4
+EMP0208,Male,28,Customer Support,Support Manager,Master's,Single,2024-04-11,Active,,41492,2,0,1,No,Travel_Frequently,3,4,2,16,0
+EMP0209,Female,48,Human Resources,Recruiter,Bachelor's,Divorced,2005-11-29,Resigned,2021-07-12,34668,20,7,5,Yes,Non-Travel,2,2,3,32,0
+EMP0210,Female,27,IT,System Administrator,Doctorate,Single,2021-02-26,Active,,67551,5,0,2,No,Non-Travel,4,1,3,75,2
+EMP0211,Female,54,IT,Software Developer,Doctorate,Divorced,2009-01-04,Active,,75344,17,4,5,Yes,Travel_Rarely,4,4,2,41,1
+EMP0212,Male,32,IT,Software Developer,Bachelor's,Divorced,2014-01-13,Active,,35128,12,9,4,Yes,Travel_Rarely,3,4,4,51,1
+EMP0213,Male,21,Customer Support,Team Lead,High School,Married,2023-02-23,Active,,59543,3,1,1,No,Travel_Rarely,3,1,2,40,0
+EMP0214,Male,45,Data & Analytics,Data Analyst,Doctorate,Married,2025-06-01,Active,,53235,1,0,1,No,Travel_Frequently,1,4,3,54,0
+EMP0215,Male,21,IT,Software Developer,Master's,Single,2024-08-30,Active,,65690,2,2,1,Yes,Travel_Rarely,4,3,3,42,1
+EMP0216,Male,45,Finance,Finance Manager,Master's,Married,2001-09-08,Resigned,2018-06-15,66347,25,10,5,Yes,Travel_Rarely,1,3,2,21,0
+EMP0217,Male,47,Sales,Sales Manager,High School,Single,2021-10-03,Active,,40613,5,2,2,No,Travel_Rarely,3,2,3,0,1
+EMP0218,Female,39,Human Resources,HR Executive,Master's,Divorced,2013-01-04,Active,,60956,13,2,4,Yes,Travel_Rarely,1,3,4,43,4
+EMP0219,Male,22,Sales,Sales Executive,Bachelor's,Married,2024-09-18,Active,,62967,2,1,1,Yes,Non-Travel,3,4,4,60,0
+EMP0220,Female,58,Operations,Operations Executive,Doctorate,Divorced,2012-11-11,Active,,25441,13,4,4,Yes,Travel_Frequently,2,3,3,38,3
+EMP0221,Female,52,Customer Support,Support Manager,High School,Married,2016-08-01,Active,,34370,10,0,3,Yes,Non-Travel,4,4,3,70,1
+EMP0222,Female,53,Operations,Operations Executive,Master's,Married,2005-01-24,Active,,35922,21,7,5,Yes,Travel_Rarely,1,1,2,49,4
+EMP0223,Female,26,Finance,Financial Analyst,Doctorate,Divorced,2025-02-24,Active,,72369,1,1,1,No,Travel_Rarely,1,3,3,64,0
+EMP0224,Male,42,Marketing,Digital Marketer,Bachelor's,Married,2005-03-09,Active,,20503,21,8,5,Yes,Travel_Frequently,1,2,4,27,0
+EMP0225,Female,34,Sales,Account Manager,Doctorate,Divorced,2010-05-03,Active,,44206,16,7,5,No,Travel_Frequently,4,4,3,38,4
+EMP0226,Female,41,Sales,Account Manager,Doctorate,Divorced,2018-12-25,Active,,56562,7,5,2,Yes,Travel_Frequently,1,2,3,13,3
+EMP0227,Male,30,Sales,Account Manager,Master's,Single,2017-01-02,Active,,39975,9,2,3,Yes,Non-Travel,1,2,3,28,1
+EMP0228,Male,33,Human Resources,HR Executive,Master's,Divorced,2020-08-14,Active,,57279,6,0,2,No,Travel_Frequently,2,1,2,16,0
+EMP0229,Male,32,Human Resources,Recruiter,High School,Single,2018-07-05,Active,,24697,8,2,3,No,Travel_Frequently,2,1,3,53,3
+EMP0230,Female,27,IT,IT Support Specialist,High School,Single,2022-05-21,Active,,73767,4,1,2,No,Non-Travel,2,1,3,45,1
+EMP0231,Female,34,Finance,Accountant,Doctorate,Divorced,2023-05-10,Active,,68502,3,1,1,Yes,Travel_Rarely,2,3,4,34,1
+EMP0232,Male,29,Finance,Financial Analyst,Doctorate,Single,2019-11-30,Active,,74379,6,1,2,Yes,Travel_Frequently,2,1,3,31,1
+EMP0233,Female,47,Human Resources,HR Manager,High School,Single,2023-06-06,Active,,47933,3,3,1,No,Non-Travel,3,2,3,33,1
+EMP0234,Male,42,Human Resources,HR Executive,High School,Single,2011-09-24,Resigned,2017-04-11,38007,15,6,4,No,Non-Travel,1,3,3,70,3
+EMP0235,Female,35,Finance,Finance Manager,Doctorate,Divorced,2016-09-22,Active,,59051,10,8,3,Yes,Non-Travel,3,2,3,18,1
+EMP0236,Male,38,Marketing,Marketing Executive,Master's,Married,2012-11-01,Active,,32281,14,9,4,Yes,Non-Travel,1,4,3,31,0
+EMP0237,Female,49,Marketing,Marketing Manager,Bachelor's,Married,2009-01-04,Active,,22386,17,7,5,No,Non-Travel,2,3,3,40,2
+EMP0238,Male,28,Finance,Accountant,High School,Divorced,2017-11-19,Active,,28286,8,0,3,No,Travel_Rarely,3,4,2,62,0
+EMP0239,Male,55,Marketing,Marketing Manager,Master's,Divorced,2014-02-15,Active,,22006,12,7,4,No,Non-Travel,4,4,3,20,4
+EMP0240,Female,46,Customer Support,Support Manager,High School,Divorced,2015-07-09,Active,,56743,11,4,3,No,Travel_Rarely,1,4,3,23,4
+EMP0241,Female,23,Data & Analytics,Data Analyst,High School,Single,2020-06-30,Active,,64858,6,0,2,No,Non-Travel,3,3,3,65,1
+EMP0242,Male,21,Operations,Process Analyst,Doctorate,Divorced,2025-08-01,Resigned,2026-09-05,52155,1,1,1,No,Non-Travel,3,1,3,37,0
+EMP0243,Male,47,Finance,Accountant,Bachelor's,Divorced,2015-02-15,Active,,31054,11,9,3,Yes,Travel_Frequently,4,1,3,70,0
+EMP0244,Male,46,IT,IT Support Specialist,High School,Divorced,2005-06-02,Active,,78361,21,3,5,Yes,Non-Travel,2,2,4,7,4
+EMP0245,Male,59,Finance,Financial Analyst,Doctorate,Divorced,2023-03-08,Active,,71005,3,3,1,Yes,Non-Travel,2,3,3,51,1
+EMP0246,Female,41,Human Resources,HR Executive,Doctorate,Married,2018-04-20,Active,,47264,8,0,3,No,Non-Travel,4,4,3,21,0
+EMP0247,Female,52,Operations,Operations Executive,Bachelor's,Single,2004-01-26,Active,,30497,22,0,5,No,Non-Travel,3,3,3,25,3
+EMP0248,Male,56,IT,IT Support Specialist,Master's,Single,2022-11-13,Resigned,2025-07-25,62941,3,1,1,No,Travel_Frequently,1,3,4,37,0
+EMP0249,Female,42,Human Resources,HR Executive,Bachelor's,Married,2012-02-25,Active,,23615,14,10,4,Yes,Non-Travel,2,1,3,49,0
+EMP0250,Male,37,Sales,Account Manager,Master's,Single,2022-02-13,Active,,19948,4,4,2,No,Travel_Frequently,2,2,3,64,2
+EMP0251,Male,42,Data & Analytics,Data Analyst,Bachelor's,Divorced,2016-10-06,Active,,36972,10,1,3,Yes,Travel_Rarely,4,2,4,51,2
+EMP0252,Male,43,Sales,Sales Manager,High School,Married,2013-02-12,Resigned,2016-01-25,28311,13,6,4,No,Travel_Frequently,2,3,3,50,2
+EMP0253,Male,42,IT,System Administrator,Bachelor's,Married,2010-11-03,Active,,45255,16,3,5,No,Travel_Rarely,2,4,2,38,4
+EMP0254,Male,53,Operations,Process Analyst,Bachelor's,Divorced,2012-10-27,Active,,50865,14,0,4,Yes,Travel_Rarely,3,4,3,1,3
+EMP0255,Female,28,Sales,Sales Executive,Master's,Single,2017-09-11,Resigned,2026-05-10,30801,9,7,3,No,Travel_Rarely,1,4,3,54,0
+EMP0256,Female,30,Marketing,Marketing Manager,Doctorate,Divorced,2013-08-11,Active,,27348,13,4,4,No,Non-Travel,2,4,3,42,4
+EMP0257,Female,38,Customer Support,Team Lead,Bachelor's,Single,2008-05-02,Active,,35963,18,10,5,No,Non-Travel,1,1,3,29,4
+EMP0258,Female,32,Operations,Operations Executive,Bachelor's,Divorced,2021-05-23,Active,,54756,5,2,2,No,Travel_Rarely,4,3,3,36,0
+EMP0259,Female,40,Customer Support,Support Executive,Bachelor's,Single,2007-05-29,Active,,34619,19,1,5,No,Travel_Frequently,4,3,3,12,4
+EMP0260,Male,54,Marketing,Marketing Executive,Doctorate,Divorced,2023-04-13,Active,,22161,3,1,1,No,Non-Travel,4,2,3,9,0
+EMP0261,Female,40,Finance,Accountant,High School,Single,2021-07-24,Active,,52622,5,4,2,No,Travel_Frequently,2,3,3,32,1
+EMP0262,Male,44,Human Resources,HR Manager,Doctorate,Married,2009-12-17,Active,,60239,16,3,5,Yes,Travel_Frequently,1,1,4,4,4
+EMP0263,Female,56,Marketing,Marketing Manager,High School,Married,2019-05-30,Active,,47743,7,0,2,Yes,Travel_Frequently,4,1,3,13,2
+EMP0264,Male,24,Sales,Sales Manager,Bachelor's,Divorced,2020-05-23,Active,,48549,6,1,2,No,Travel_Rarely,2,2,4,23,3
+EMP0265,Female,55,Operations,Process Analyst,Master's,Single,2022-01-10,Active,,55065,4,0,2,No,Non-Travel,1,1,3,5,2
+EMP0266,Male,41,Customer Support,Team Lead,Bachelor's,Single,2014-08-28,Active,,28890,12,2,4,Yes,Travel_Frequently,4,3,3,38,2
+EMP0267,Female,49,Sales,Account Manager,Master's,Divorced,2017-05-30,Resigned,2023-07-08,32278,9,0,3,No,Travel_Rarely,3,1,3,54,0
+EMP0268,Male,30,Data & Analytics,BI Developer,Bachelor's,Single,2014-02-11,Active,,39526,12,5,4,No,Travel_Rarely,3,1,3,70,4
+EMP0269,Male,28,Human Resources,Recruiter,Bachelor's,Married,2023-08-09,Active,,39453,3,2,1,Yes,Travel_Frequently,4,4,3,15,0
+EMP0270,Female,34,Operations,Operations Executive,High School,Married,2017-03-21,Active,,23397,9,3,3,No,Travel_Frequently,1,2,4,1,1
+EMP0271,Male,50,Marketing,Marketing Executive,Master's,Divorced,2009-03-14,Active,,57238,17,10,5,No,Travel_Frequently,1,3,3,76,2
+EMP0272,Female,53,Customer Support,Team Lead,Doctorate,Married,2019-10-31,Active,,42985,7,3,2,Yes,Non-Travel,3,3,2,3,1
+EMP0273,Male,46,Data & Analytics,BI Developer,High School,Single,2009-01-13,Active,,44301,17,8,5,Yes,Travel_Frequently,2,1,4,29,0
+EMP0274,Male,50,IT,System Administrator,Doctorate,Single,2015-12-25,Active,,52735,10,9,3,Yes,Travel_Frequently,4,3,3,18,0
+EMP0275,Female,28,Finance,Accountant,Bachelor's,Married,2016-11-07,Active,,38349,9,8,3,No,Travel_Rarely,4,1,4,13,3
+EMP0276,Female,22,Marketing,Digital Marketer,High School,Married,2021-03-09,Active,,58310,5,4,2,Yes,Non-Travel,1,3,3,61,0
+EMP0277,Male,34,Data & Analytics,Data Analyst,High School,Divorced,2010-09-18,Active,,70830,16,2,5,Yes,Travel_Frequently,4,1,3,65,3
+EMP0278,Male,48,Sales,Sales Manager,Bachelor's,Divorced,2006-06-10,Active,,45581,20,5,5,Yes,Travel_Rarely,1,1,4,10,4
+EMP0279,Female,32,Operations,Operations Manager,High School,Divorced,2018-05-07,Active,,26853,8,7,3,Yes,Travel_Frequently,2,3,3,57,1
+EMP0280,Female,49,Sales,Sales Manager,Bachelor's,Married,2009-03-13,Resigned,2025-02-15,62974,17,7,5,No,Travel_Frequently,4,4,4,40,0
+EMP0281,Female,44,Marketing,Digital Marketer,High School,Married,2023-04-16,Active,,55239,3,1,1,Yes,Travel_Rarely,4,1,3,18,1
+EMP0282,Female,44,IT,IT Support Specialist,High School,Married,2025-07-09,Active,,36807,1,1,1,No,Travel_Rarely,1,3,3,23,0
+EMP0283,Female,34,Finance,Accountant,Doctorate,Married,2010-01-26,Active,,79030,16,5,5,No,Non-Travel,1,4,3,77,3
+EMP0284,Female,23,Data & Analytics,Data Analyst,High School,Married,2024-01-27,Active,,68460,2,0,1,No,Travel_Rarely,2,1,3,24,0
+EMP0285,Male,48,Sales,Sales Manager,High School,Single,2015-09-07,Active,,53709,11,4,3,No,Travel_Rarely,3,4,4,47,3
+EMP0286,Male,40,Sales,Sales Manager,Master's,Divorced,2009-05-22,Active,,42101,17,10,5,Yes,Travel_Frequently,1,1,4,51,2
+EMP0287,Female,53,Customer Support,Support Executive,Master's,Married,2018-01-23,Active,,31679,8,7,3,No,Non-Travel,3,3,3,26,3
+EMP0288,Female,47,Operations,Process Analyst,Doctorate,Divorced,2020-07-13,Active,,37798,6,2,2,Yes,Travel_Rarely,3,1,3,65,3
+EMP0289,Male,28,Finance,Financial Analyst,Doctorate,Single,2020-06-05,Active,,69902,6,0,2,No,Non-Travel,2,4,3,19,3
+EMP0290,Male,37,Operations,Process Analyst,Master's,Divorced,2012-06-30,Active,,36406,14,5,4,Yes,Travel_Rarely,2,4,4,31,3
+EMP0291,Female,37,Operations,Operations Manager,Bachelor's,Married,2024-03-30,Active,,45731,2,1,1,No,Travel_Rarely,4,3,3,7,1
+EMP0292,Male,47,Sales,Account Manager,High School,Married,2016-03-04,Active,,23096,10,5,3,Yes,Travel_Frequently,1,1,2,30,1
+EMP0293,Female,34,Data & Analytics,BI Developer,Bachelor's,Married,2019-02-15,Active,,69445,7,6,2,No,Travel_Rarely,3,2,3,3,3
+EMP0294,Male,57,Sales,Account Manager,Doctorate,Married,2000-12-13,Active,,28687,25,9,5,Yes,Non-Travel,2,3,2,13,2
+EMP0295,Female,52,IT,System Administrator,Doctorate,Divorced,2010-10-06,Active,,38503,16,3,5,Yes,Non-Travel,1,3,3,20,3
+EMP0296,Female,22,Finance,Financial Analyst,High School,Single,2021-11-03,Active,,66828,4,4,2,No,Non-Travel,3,3,4,44,1
+EMP0297,Female,32,Data & Analytics,Data Analyst,High School,Single,2018-08-22,Active,,28540,8,7,3,No,Non-Travel,1,4,3,70,1
+EMP0298,Female,27,Finance,Accountant,Master's,Single,2016-08-13,Active,,25534,10,10,3,No,Travel_Frequently,1,3,3,12,4
+EMP0299,Female,50,Data & Analytics,Data Scientist,Master's,Single,2024-11-09,Active,,65691,1,1,1,No,Travel_Frequently,4,2,3,77,0
+EMP0300,Female,28,Operations,Operations Executive,Master's,Divorced,2019-01-02,Active,,63285,7,4,2,No,Travel_Frequently,2,3,4,66,0
+EMP0301,Male,49,Customer Support,Team Lead,High School,Married,2009-04-26,Active,,29308,17,6,5,Yes,Non-Travel,3,1,3,33,3
+EMP0302,Male,40,Marketing,Digital Marketer,High School,Single,2022-02-24,Active,,42279,4,3,2,No,Travel_Rarely,1,3,4,10,1
+EMP0303,Female,31,Marketing,Marketing Executive,Bachelor's,Single,2023-02-21,Active,,22531,3,3,1,Yes,Travel_Rarely,1,4,3,48,0
+EMP0304,Male,31,IT,Software Developer,High School,Divorced,2024-10-18,Active,,26093,2,1,1,No,Travel_Frequently,3,3,2,25,1
+EMP0305,Female,36,Human Resources,Recruiter,Master's,Divorced,2024-08-21,Active,,51581,2,2,1,No,Non-Travel,3,2,2,47,0
+EMP0306,Female,35,IT,IT Support Specialist,Doctorate,Married,2013-02-21,Active,,64676,13,1,4,Yes,Travel_Rarely,2,4,3,10,3
+EMP0307,Female,27,Marketing,Marketing Manager,Bachelor's,Married,2020-11-11,Resigned,2024-02-29,33581,5,0,2,No,Travel_Rarely,3,4,4,62,1
+EMP0308,Male,53,Customer Support,Team Lead,Doctorate,Single,2021-09-02,Active,,36869,5,1,2,No,Non-Travel,2,2,3,30,0
+EMP0309,Female,53,Data & Analytics,Data Analyst,Doctorate,Divorced,2015-05-10,Active,,30091,11,10,3,No,Travel_Rarely,2,4,3,9,1
+EMP0310,Male,24,Human Resources,HR Manager,Bachelor's,Single,2024-12-18,Active,,20100,1,0,1,Yes,Non-Travel,4,1,3,71,0
+EMP0311,Male,27,Data & Analytics,Data Scientist,Bachelor's,Married,2019-08-08,Active,,62045,7,7,2,Yes,Travel_Rarely,2,1,3,17,2
+EMP0312,Female,32,Finance,Finance Manager,High School,Divorced,2012-01-14,Active,,50991,14,4,4,Yes,Travel_Frequently,4,3,4,4,1
+EMP0313,Female,52,Customer Support,Support Manager,Master's,Divorced,2025-12-05,Resigned,2026-10-24,63339,0,0,1,Yes,Travel_Frequently,2,4,3,60,0
+EMP0314,Male,59,Human Resources,HR Executive,High School,Single,2001-07-08,Active,,40046,25,8,5,No,Non-Travel,4,3,3,48,0
+EMP0315,Female,34,Operations,Process Analyst,Master's,Single,2020-12-13,Active,,50731,5,3,2,No,Travel_Frequently,1,2,3,63,1
+EMP0316,Female,44,Sales,Sales Manager,Doctorate,Divorced,2006-08-25,Active,,22118,20,6,5,No,Travel_Frequently,3,2,3,51,0
+EMP0317,Female,32,Sales,Sales Executive,Master's,Single,2021-03-02,Resigned,2023-09-28,25397,5,3,2,Yes,Non-Travel,4,3,4,54,0
+EMP0318,Female,35,Operations,Operations Manager,Master's,Divorced,2025-04-03,Active,,25333,1,1,1,Yes,Travel_Frequently,1,1,4,26,0
+EMP0319,Female,57,Marketing,Digital Marketer,Master's,Single,2024-01-06,Active,,54056,2,2,1,Yes,Travel_Rarely,1,4,3,10,1
+EMP0320,Female,55,Marketing,Marketing Manager,Doctorate,Divorced,2013-11-05,Active,,62144,12,8,4,Yes,Travel_Rarely,3,3,4,21,3
+EMP0321,Female,57,Data & Analytics,BI Developer,High School,Married,2014-12-07,Active,,50865,11,4,3,Yes,Non-Travel,1,1,3,79,1
+EMP0322,Female,31,Marketing,Marketing Executive,Doctorate,Single,2021-11-26,Active,,20310,4,3,2,Yes,Travel_Rarely,3,3,2,48,2
+EMP0323,Female,23,Customer Support,Support Manager,Doctorate,Married,2020-10-04,Active,,60675,6,3,2,No,Non-Travel,4,1,3,19,3
+EMP0324,Female,52,Data & Analytics,Data Analyst,Doctorate,Single,2001-08-27,Active,,69939,25,7,5,No,Travel_Rarely,3,3,3,3,3
+EMP0325,Female,43,Customer Support,Team Lead,Bachelor's,Divorced,2016-11-20,Active,,31029,9,8,3,Yes,Travel_Frequently,1,1,3,73,3
+EMP0326,Male,24,Data & Analytics,Data Analyst,Master's,Married,2019-01-21,Resigned,2019-07-14,66530,7,6,2,No,Travel_Rarely,4,3,3,46,0
+EMP0327,Female,41,IT,Software Developer,Master's,Single,2015-07-21,Active,,34520,11,2,3,Yes,Non-Travel,4,2,4,20,1
+EMP0328,Female,23,IT,Software Developer,Doctorate,Married,2022-03-19,Active,,59101,4,3,2,No,Travel_Frequently,4,3,3,64,2
+EMP0329,Female,23,IT,System Administrator,Master's,Divorced,2025-10-24,Active,,41469,1,1,1,No,Non-Travel,1,4,3,0,0
+EMP0330,Female,54,Human Resources,HR Manager,Master's,Single,2000-12-16,Active,,32089,25,6,5,Yes,Travel_Rarely,3,4,3,6,1
+EMP0331,Female,36,IT,Software Developer,High School,Married,2007-09-29,Active,,37384,19,1,5,Yes,Travel_Rarely,3,4,2,30,3
+EMP0332,Male,41,Human Resources,HR Manager,High School,Divorced,2012-06-07,Resigned,2026-10-30,37764,14,9,4,No,Non-Travel,3,4,2,46,3
+EMP0333,Female,29,Sales,Sales Manager,Master's,Single,2016-05-07,Active,,54654,10,4,3,No,Travel_Frequently,3,3,3,56,0
+EMP0334,Female,47,Customer Support,Support Manager,Master's,Single,2020-03-09,Active,,36887,6,2,2,No,Travel_Rarely,3,1,2,7,1
+EMP0335,Female,37,Marketing,Digital Marketer,Doctorate,Divorced,2023-04-03,Active,,35221,3,0,1,Yes,Non-Travel,2,4,3,38,1
+EMP0336,Female,34,Operations,Process Analyst,High School,Married,2023-10-22,Active,,57728,3,3,1,Yes,Travel_Frequently,1,3,2,43,1
+EMP0337,Male,34,Customer Support,Team Lead,High School,Divorced,2009-05-08,Active,,58893,17,1,5,No,Non-Travel,2,2,3,7,1
+EMP0338,Male,51,Data & Analytics,Data Scientist,Doctorate,Married,2015-06-21,Active,,39435,11,7,3,Yes,Travel_Rarely,1,2,4,80,4
+EMP0339,Male,43,Operations,Operations Manager,Doctorate,Single,2010-08-18,Active,,38800,16,3,5,Yes,Non-Travel,4,3,3,64,1
+EMP0340,Male,25,Human Resources,Recruiter,Master's,Divorced,2018-09-07,Resigned,2023-09-10,29317,8,1,3,Yes,Travel_Rarely,2,2,3,50,1
+EMP0341,Male,29,Sales,Account Manager,Bachelor's,Single,2016-06-10,Resigned,2022-02-06,25663,10,10,3,Yes,Travel_Frequently,3,1,3,1,2
+EMP0342,Female,59,Operations,Operations Executive,High School,Divorced,2008-02-17,Active,,37387,18,3,5,No,Travel_Rarely,2,3,3,35,1
+EMP0343,Male,35,Marketing,Marketing Manager,Doctorate,Married,2023-12-15,Resigned,2026-04-07,26594,2,1,1,No,Non-Travel,1,1,3,41,1
+EMP0344,Female,43,Marketing,Marketing Manager,Doctorate,Married,2025-09-12,Resigned,2026-04-28,18374,1,1,1,Yes,Non-Travel,1,4,2,21,0
+EMP0345,Female,50,Marketing,Marketing Executive,Doctorate,Single,2013-02-12,Active,,36774,13,7,4,Yes,Travel_Frequently,1,3,2,55,4
+EMP0346,Female,47,Sales,Sales Executive,Bachelor's,Divorced,2000-10-26,Active,,55224,26,5,5,No,Travel_Rarely,1,2,3,66,1
+EMP0347,Female,53,Finance,Financial Analyst,Master's,Single,2023-06-18,Active,,52870,3,0,1,Yes,Travel_Frequently,4,4,3,53,0
+EMP0348,Female,41,Data & Analytics,Data Analyst,Master's,Married,2003-09-02,Active,,34965,23,0,5,No,Non-Travel,1,1,3,49,3
+EMP0349,Male,41,IT,System Administrator,Doctorate,Single,2019-02-13,Active,,81171,7,1,2,Yes,Travel_Rarely,1,2,4,4,2
+EMP0350,Male,31,Sales,Sales Manager,Master's,Divorced,2024-02-04,Active,,24188,2,1,1,No,Travel_Frequently,2,3,4,49,1
+EMP0351,Female,37,Data & Analytics,BI Developer,Doctorate,Divorced,2025-09-17,Active,,56905,1,0,1,Yes,Non-Travel,1,3,3,29,0
+EMP0352,Female,38,Human Resources,Recruiter,Master's,Married,2009-01-19,Active,,47887,17,5,5,Yes,Travel_Rarely,3,2,2,31,4
+EMP0353,Female,50,IT,System Administrator,Master's,Married,2024-10-20,Active,,76222,2,1,1,Yes,Travel_Rarely,2,1,3,50,0
+EMP0354,Male,32,Customer Support,Team Lead,Bachelor's,Single,2018-07-24,Active,,36891,8,0,3,No,Non-Travel,1,2,3,29,3
+EMP0355,Male,27,Customer Support,Support Manager,High School,Married,2023-12-25,Active,,55712,2,0,1,No,Travel_Frequently,2,1,4,47,1
+EMP0356,Male,36,Operations,Process Analyst,Bachelor's,Single,2012-03-10,Active,,35300,14,6,4,No,Travel_Rarely,2,1,3,45,3
+EMP0357,Female,33,Finance,Accountant,Master's,Married,2013-04-14,Resigned,2026-04-27,69055,13,7,4,No,Travel_Rarely,1,3,3,69,1
+EMP0358,Male,49,Finance,Finance Manager,High School,Single,2004-03-17,Active,,66772,22,8,5,No,Travel_Frequently,1,4,2,2,4
+EMP0359,Female,34,Customer Support,Team Lead,Bachelor's,Divorced,2012-06-10,Active,,26197,14,4,4,No,Travel_Rarely,4,3,3,64,3
+EMP0360,Female,40,Sales,Sales Executive,Master's,Married,2022-06-03,Active,,22042,4,0,2,Yes,Travel_Frequently,2,1,4,40,0
+EMP0361,Male,28,Customer Support,Support Executive,Master's,Married,2024-09-24,Active,,53601,2,2,1,Yes,Travel_Frequently,1,3,3,66,1
+EMP0362,Male,50,Data & Analytics,Data Scientist,High School,Divorced,2006-07-21,Active,,74321,20,3,5,Yes,Travel_Frequently,3,4,2,12,2
+EMP0363,Female,34,Operations,Operations Manager,High School,Divorced,2023-04-10,Active,,38208,3,3,1,Yes,Travel_Frequently,1,2,2,55,0
+EMP0364,Female,42,Data & Analytics,Data Scientist,Bachelor's,Divorced,2021-12-24,Active,,67407,4,1,2,Yes,Travel_Rarely,3,1,4,19,0
+EMP0365,Female,29,IT,Software Developer,Master's,Single,2018-05-01,Resigned,2020-01-18,52245,8,6,3,No,Non-Travel,1,1,3,63,1
+EMP0366,Male,35,Operations,Operations Manager,High School,Single,2023-06-18,Active,,47465,3,2,1,Yes,Non-Travel,3,1,3,0,0
+EMP0367,Male,42,Marketing,Digital Marketer,Doctorate,Divorced,2025-06-04,Active,,61337,1,1,1,No,Travel_Rarely,3,4,3,11,0
+EMP0368,Female,58,Marketing,Digital Marketer,Bachelor's,Single,2016-04-05,Active,,31627,10,6,3,No,Travel_Frequently,2,2,4,72,4
+EMP0369,Female,36,Operations,Operations Manager,Bachelor's,Married,2017-02-26,Active,,24102,9,1,3,No,Non-Travel,2,1,2,5,3
+EMP0370,Male,29,Finance,Financial Analyst,Doctorate,Divorced,2015-04-04,Active,,36199,11,8,3,Yes,Non-Travel,2,3,3,67,4
+EMP0371,Female,31,Marketing,Marketing Manager,High School,Divorced,2021-04-02,Active,,30594,5,0,2,No,Travel_Frequently,2,2,3,0,1
+EMP0372,Male,41,IT,Software Developer,Master's,Married,2017-05-11,Resigned,2018-04-18,53671,9,5,3,No,Travel_Frequently,4,2,2,56,2
+EMP0373,Female,23,Finance,Finance Manager,High School,Married,2024-07-15,Active,,32181,2,1,1,No,Travel_Rarely,4,3,3,67,0
+EMP0374,Male,56,Finance,Financial Analyst,Doctorate,Divorced,2016-01-22,Active,,54477,10,9,3,Yes,Non-Travel,2,2,4,22,4
+EMP0375,Female,51,IT,Software Developer,High School,Single,2007-04-09,Active,,71747,19,0,5,Yes,Travel_Rarely,2,4,3,78,3
+EMP0376,Male,23,Data & Analytics,BI Developer,Doctorate,Divorced,2021-06-03,Active,,51708,5,1,2,Yes,Non-Travel,4,2,3,43,0
+EMP0377,Male,35,Marketing,Marketing Manager,Master's,Married,2009-01-25,Active,,27504,17,2,5,Yes,Non-Travel,3,3,3,61,1
+EMP0378,Male,25,Customer Support,Team Lead,Bachelor's,Divorced,2023-01-23,Active,,19120,3,0,1,No,Non-Travel,2,1,3,76,0
+EMP0379,Female,25,Customer Support,Support Manager,Doctorate,Divorced,2018-12-01,Active,,22909,7,3,2,No,Non-Travel,2,4,3,18,1
+EMP0380,Male,56,Customer Support,Team Lead,Master's,Divorced,2021-06-28,Active,,64931,5,1,2,Yes,Travel_Frequently,2,4,3,32,2
+EMP0381,Male,49,Operations,Operations Manager,Master's,Divorced,2025-12-06,Resigned,2026-10-01,30068,0,0,1,No,Travel_Rarely,1,3,2,13,0
+EMP0382,Female,36,Sales,Account Manager,Bachelor's,Single,2021-06-11,Active,,36728,5,2,2,Yes,Travel_Frequently,4,2,3,15,1
+EMP0383,Female,49,Sales,Sales Executive,High School,Married,2017-12-17,Active,,24013,8,6,3,No,Travel_Frequently,4,2,2,72,0
+EMP0384,Male,50,Human Resources,Recruiter,High School,Divorced,2021-03-30,Active,,58336,5,4,2,No,Travel_Frequently,3,2,3,35,0
+EMP0385,Female,36,Marketing,Marketing Executive,Bachelor's,Married,2020-02-01,Resigned,2020-10-02,30097,6,2,2,Yes,Non-Travel,1,1,4,50,0
+EMP0386,Male,38,IT,Software Developer,Bachelor's,Divorced,2016-03-27,Active,,28968,10,9,3,Yes,Non-Travel,2,1,3,27,0
+EMP0387,Male,31,Operations,Operations Executive,Master's,Single,2024-01-19,Resigned,2024-12-30,55686,2,0,1,Yes,Travel_Frequently,2,2,3,70,0
+EMP0388,Male,34,Data & Analytics,Data Analyst,High School,Divorced,2012-01-16,Active,,59077,14,6,4,No,Travel_Frequently,1,4,2,74,3
+EMP0389,Female,30,Customer Support,Support Executive,Doctorate,Divorced,2019-10-15,Active,,30554,7,2,2,Yes,Travel_Frequently,3,1,2,7,0
+EMP0390,Male,33,Customer Support,Support Executive,Doctorate,Married,2014-08-10,Active,,18877,12,9,4,Yes,Travel_Rarely,3,3,4,59,2
+EMP0391,Female,55,Sales,Account Manager,Master's,Divorced,2017-03-21,Active,,41128,9,5,3,No,Non-Travel,1,3,3,18,3
+EMP0392,Female,53,Operations,Operations Executive,Bachelor's,Single,2015-06-12,Resigned,2016-12-06,43581,11,2,3,Yes,Non-Travel,3,3,3,52,3
+EMP0393,Male,57,Human Resources,HR Executive,Master's,Married,2002-02-08,Active,,33813,24,2,5,Yes,Travel_Rarely,3,4,4,75,1
+EMP0394,Male,28,Finance,Accountant,Bachelor's,Divorced,2016-09-14,Active,,70849,10,10,3,Yes,Non-Travel,2,2,3,18,2
+EMP0395,Male,22,Marketing,Digital Marketer,High School,Divorced,2024-06-13,Active,,43728,2,1,1,No,Travel_Frequently,3,1,3,40,1
+EMP0396,Male,55,Sales,Sales Executive,Master's,Married,2019-01-30,Active,,24841,7,0,2,No,Travel_Rarely,1,4,2,67,2
+EMP0397,Male,58,Marketing,Digital Marketer,Master's,Married,2014-04-11,Active,,29760,12,1,4,No,Travel_Frequently,1,2,3,10,0
+EMP0398,Male,39,IT,Software Developer,Master's,Single,2015-07-13,Active,,55795,11,0,3,No,Non-Travel,3,4,3,67,0
+EMP0399,Male,59,Data & Analytics,Data Analyst,Doctorate,Married,2023-10-03,Active,,68924,3,2,1,No,Non-Travel,3,1,4,41,1
+EMP0400,Female,28,Data & Analytics,Data Scientist,Doctorate,Married,2022-06-25,Active,,36849,4,4,2,No,Non-Travel,2,2,3,4,0
+EMP0401,Female,24,Sales,Sales Executive,Master's,Married,2023-10-06,Active,,44803,3,3,1,No,Travel_Rarely,2,2,4,64,1
+EMP0402,Male,51,Finance,Accountant,Master's,Married,2014-09-07,Resigned,2020-12-30,75050,12,1,4,Yes,Travel_Rarely,3,1,2,68,4
+EMP0403,Male,34,Sales,Sales Executive,Master's,Divorced,2024-06-11,Active,,21641,2,0,1,Yes,Travel_Rarely,3,1,3,48,0
+EMP0404,Male,55,IT,IT Support Specialist,Doctorate,Married,2024-04-04,Active,,36582,2,1,1,Yes,Travel_Rarely,4,3,4,72,0
+EMP0405,Male,28,Customer Support,Support Executive,Bachelor's,Divorced,2025-09-24,Active,,20758,1,0,1,No,Non-Travel,1,1,3,7,0
+EMP0406,Female,58,Operations,Operations Executive,High School,Divorced,2009-06-30,Active,,44221,17,8,5,Yes,Travel_Frequently,2,2,3,55,1
+EMP0407,Male,45,Data & Analytics,BI Developer,Doctorate,Married,2013-11-16,Active,,71936,12,0,4,Yes,Non-Travel,3,3,3,62,2
+EMP0408,Male,54,Marketing,Marketing Manager,Doctorate,Single,2015-07-15,Active,,44298,11,1,3,No,Non-Travel,4,1,3,6,0
+EMP0409,Male,48,Operations,Operations Executive,Master's,Single,2017-12-08,Active,,49625,8,6,3,No,Travel_Rarely,4,2,2,31,3
+EMP0410,Female,47,Finance,Financial Analyst,High School,Married,2008-08-18,Active,,58900,18,3,5,Yes,Travel_Rarely,3,3,3,33,1
+EMP0411,Female,54,Human Resources,Recruiter,Doctorate,Single,2004-03-09,Active,,55499,22,0,5,Yes,Non-Travel,3,3,4,75,4
+EMP0412,Female,47,Operations,Process Analyst,High School,Single,2012-02-26,Active,,63107,14,8,4,Yes,Travel_Rarely,3,1,2,34,1
+EMP0413,Male,57,IT,IT Support Specialist,Bachelor's,Divorced,2001-09-24,Active,,59010,25,4,5,Yes,Non-Travel,4,4,3,60,1
+EMP0414,Male,22,Human Resources,Recruiter,Master's,Married,2022-07-13,Active,,62273,4,0,2,No,Travel_Rarely,1,4,4,72,2
+EMP0415,Male,37,Marketing,Digital Marketer,Master's,Divorced,2018-08-03,Active,,49679,8,3,3,No,Travel_Frequently,3,2,2,72,0
+EMP0416,Male,53,Marketing,Digital Marketer,High School,Divorced,2022-03-10,Active,,37476,4,0,2,Yes,Travel_Rarely,4,3,4,4,0
+EMP0417,Female,34,Marketing,Digital Marketer,Master's,Divorced,2014-10-09,Active,,27868,12,6,4,Yes,Travel_Frequently,3,3,2,63,2
+EMP0418,Male,34,Human Resources,HR Manager,Master's,Single,2013-08-28,Active,,24193,13,8,4,Yes,Travel_Rarely,3,3,4,54,1
+EMP0419,Female,41,Finance,Accountant,Doctorate,Divorced,2019-01-17,Active,,31585,7,6,2,Yes,Travel_Rarely,4,2,2,54,3
+EMP0420,Male,57,Customer Support,Support Executive,High School,Single,2013-03-04,Active,,53572,13,1,4,Yes,Non-Travel,2,2,4,63,3
+EMP0421,Male,56,Sales,Sales Manager,Doctorate,Married,2001-03-31,Active,,63232,25,0,5,No,Non-Travel,1,4,2,59,4
+EMP0422,Female,54,Operations,Operations Manager,Bachelor's,Divorced,2024-01-12,Active,,25237,2,2,1,Yes,Travel_Frequently,3,1,3,15,0
+EMP0423,Male,39,Human Resources,Recruiter,High School,Divorced,2018-03-27,Active,,36191,8,4,3,Yes,Travel_Frequently,4,4,3,33,4
+EMP0424,Female,34,Operations,Process Analyst,Doctorate,Single,2010-11-16,Resigned,2026-01-08,35422,15,9,4,Yes,Non-Travel,3,2,3,35,1
+EMP0425,Male,34,Data & Analytics,Data Analyst,High School,Divorced,2011-08-29,Active,,50810,15,10,4,Yes,Non-Travel,1,1,3,39,2
+EMP0426,Female,49,Human Resources,HR Executive,High School,Single,2004-07-19,Active,,56739,22,7,5,No,Non-Travel,4,3,4,72,4
+EMP0427,Male,42,Human Resources,HR Executive,High School,Divorced,2005-05-29,Active,,53380,21,4,5,Yes,Non-Travel,3,2,3,79,4
+EMP0428,Female,42,Customer Support,Support Manager,Doctorate,Married,2004-06-18,Active,,42962,22,2,5,No,Travel_Frequently,1,4,4,17,2
+EMP0429,Male,54,Data & Analytics,Data Scientist,High School,Divorced,2010-03-24,Active,,54608,16,7,5,No,Non-Travel,4,3,3,70,3
+EMP0430,Male,50,Marketing,Marketing Executive,Doctorate,Single,2019-03-31,Active,,47840,7,6,2,No,Travel_Frequently,4,4,3,38,3
+EMP0431,Male,22,Sales,Account Manager,High School,Single,2021-01-30,Active,,61641,5,1,2,Yes,Travel_Frequently,1,3,4,37,1
+EMP0432,Female,33,Operations,Operations Manager,Master's,Divorced,2022-05-01,Active,,34589,4,4,2,No,Travel_Rarely,1,4,3,63,0
+EMP0433,Male,57,Customer Support,Support Manager,High School,Single,2019-07-24,Active,,53216,7,4,2,No,Non-Travel,2,3,3,1,1
+EMP0434,Male,52,Finance,Financial Analyst,Bachelor's,Single,2016-01-07,Active,,47798,10,8,3,No,Non-Travel,3,4,3,69,4
+EMP0435,Female,32,Customer Support,Support Manager,Master's,Divorced,2024-03-22,Active,,35149,2,0,1,Yes,Travel_Rarely,1,1,2,75,1
+EMP0436,Female,59,Data & Analytics,Data Analyst,Bachelor's,Single,2013-02-20,Active,,56286,13,6,4,Yes,Non-Travel,2,4,3,18,3
+EMP0437,Male,25,Customer Support,Support Manager,Doctorate,Married,2023-09-02,Active,,39892,3,2,1,No,Non-Travel,1,1,3,55,1
+EMP0438,Female,45,Data & Analytics,Data Scientist,High School,Divorced,2025-09-09,Active,,62398,1,1,1,Yes,Travel_Rarely,3,4,2,21,0
+EMP0439,Male,34,Sales,Sales Executive,Doctorate,Divorced,2016-05-07,Active,,57689,10,8,3,Yes,Travel_Rarely,4,3,2,69,3
+EMP0440,Female,30,Data & Analytics,Data Scientist,Master's,Divorced,2019-05-11,Active,,47859,7,6,2,Yes,Travel_Rarely,4,4,4,78,0
+EMP0441,Female,51,Finance,Finance Manager,Master's,Married,2016-06-03,Active,,76499,10,8,3,No,Travel_Frequently,2,2,3,40,4
+EMP0442,Male,54,Sales,Account Manager,Bachelor's,Single,2016-03-24,Active,,63519,10,5,3,Yes,Non-Travel,2,1,3,62,1
+EMP0443,Female,51,Data & Analytics,BI Developer,Doctorate,Single,2011-01-18,Active,,25716,15,5,4,Yes,Non-Travel,4,2,2,46,1
+EMP0444,Male,48,Data & Analytics,Data Scientist,Master's,Married,2022-04-13,Resigned,2025-08-18,65191,4,1,2,No,Travel_Rarely,4,2,3,47,2
+EMP0445,Male,51,IT,System Administrator,Doctorate,Single,2016-05-06,Active,,53686,10,3,3,No,Travel_Frequently,2,2,3,74,3
+EMP0446,Female,21,Marketing,Digital Marketer,Bachelor's,Divorced,2022-04-05,Active,,61418,4,2,2,No,Non-Travel,3,3,2,16,0
+EMP0447,Female,39,Marketing,Marketing Manager,High School,Single,2017-09-08,Active,,49535,9,0,3,No,Travel_Frequently,2,3,4,35,4
+EMP0448,Male,37,IT,Software Developer,High School,Single,2023-12-09,Active,,61392,2,1,1,No,Non-Travel,1,1,4,56,0
+EMP0449,Female,49,Sales,Sales Manager,Doctorate,Divorced,2020-09-10,Resigned,2023-12-16,55181,6,5,2,Yes,Travel_Rarely,3,1,3,16,0
+EMP0450,Male,46,Human Resources,Recruiter,Master's,Married,2020-02-14,Active,,28458,6,2,2,No,Non-Travel,4,1,2,57,0
+EMP0451,Male,58,Customer Support,Support Manager,Master's,Divorced,2000-10-27,Resigned,2021-09-16,45955,26,5,5,No,Travel_Rarely,2,1,3,8,1
+EMP0452,Female,27,Data & Analytics,Data Scientist,Master's,Single,2018-01-21,Active,,72544,8,5,3,Yes,Non-Travel,4,3,3,59,4
+EMP0453,Male,30,Customer Support,Team Lead,Doctorate,Single,2015-06-18,Active,,31005,11,3,3,No,Travel_Frequently,2,3,3,1,3
+EMP0454,Male,58,IT,IT Support Specialist,High School,Single,2012-12-05,Active,,41098,13,6,4,No,Non-Travel,1,4,3,69,2
+EMP0455,Female,30,Finance,Finance Manager,Doctorate,Divorced,2017-07-02,Active,,60685,9,3,3,Yes,Non-Travel,3,3,3,45,1
+EMP0456,Male,41,Sales,Sales Executive,Bachelor's,Divorced,2002-11-08,Active,,18184,23,1,5,No,Travel_Rarely,4,4,3,57,3
+EMP0457,Male,27,Human Resources,HR Executive,Master's,Married,2025-03-16,Active,,31666,1,0,1,No,Travel_Rarely,1,1,4,22,0
+EMP0458,Female,23,Sales,Sales Executive,Bachelor's,Divorced,2022-10-10,Active,,47325,4,2,2,Yes,Non-Travel,1,2,3,3,1
+EMP0459,Male,56,Finance,Financial Analyst,High School,Single,2020-05-01,Resigned,2025-02-19,75267,6,3,2,No,Travel_Rarely,2,3,3,38,2
+EMP0460,Male,26,Customer Support,Team Lead,High School,Single,2021-02-16,Active,,35804,5,0,2,Yes,Travel_Frequently,4,1,3,23,0
+EMP0461,Female,59,Customer Support,Team Lead,High School,Single,2009-03-31,Active,,52328,17,6,5,No,Non-Travel,3,4,3,44,2
+EMP0462,Female,55,Sales,Sales Executive,Master's,Divorced,2015-07-13,Resigned,2021-02-11,62601,11,7,3,No,Travel_Rarely,3,4,4,3,4
+EMP0463,Male,37,Human Resources,Recruiter,Doctorate,Divorced,2023-04-24,Active,,43008,3,1,1,No,Non-Travel,3,3,4,41,1
+EMP0464,Female,57,Customer Support,Team Lead,Master's,Single,2003-10-02,Active,,42785,23,7,5,Yes,Non-Travel,4,4,3,1,0
+EMP0465,Male,47,Sales,Sales Manager,Master's,Married,2022-06-03,Resigned,2025-12-21,39874,4,4,2,Yes,Non-Travel,3,1,4,30,0
+EMP0466,Male,28,Sales,Sales Executive,High School,Single,2020-12-06,Active,,24017,5,5,2,Yes,Non-Travel,2,4,4,34,1
+EMP0467,Male,28,Human Resources,HR Manager,Doctorate,Single,2024-07-14,Active,,37384,2,0,1,No,Travel_Frequently,4,1,2,48,0
+EMP0468,Female,29,Customer Support,Team Lead,Doctorate,Divorced,2014-09-20,Active,,55316,12,8,4,Yes,Non-Travel,4,2,2,0,0
+EMP0469,Female,27,Sales,Sales Executive,Doctorate,Single,2018-02-20,Active,,50080,8,3,3,Yes,Travel_Rarely,3,1,3,4,2
+EMP0470,Female,31,Customer Support,Team Lead,High School,Married,2018-07-01,Active,,50531,8,6,3,No,Travel_Frequently,4,2,3,46,0
+EMP0471,Male,59,Operations,Operations Executive,Bachelor's,Divorced,2015-03-31,Active,,56908,11,3,3,No,Travel_Rarely,2,4,3,61,3
+EMP0472,Female,37,Sales,Sales Executive,Bachelor's,Divorced,2009-11-21,Active,,49449,16,6,5,No,Travel_Rarely,4,3,3,50,2
+EMP0473,Female,35,Data & Analytics,Data Analyst,Doctorate,Divorced,2024-03-29,Active,,42606,2,0,1,Yes,Travel_Frequently,4,4,2,70,0
+EMP0474,Male,47,Data & Analytics,Data Scientist,High School,Divorced,2000-01-30,Active,,49399,26,2,5,No,Non-Travel,4,4,3,3,2
+EMP0475,Male,57,Human Resources,HR Manager,High School,Married,2002-12-16,Resigned,2014-04-04,41747,23,9,5,No,Non-Travel,4,1,2,3,0
+EMP0476,Male,29,Operations,Operations Executive,Master's,Married,2017-01-10,Active,,54605,9,4,3,Yes,Travel_Rarely,2,1,3,69,3
+EMP0477,Female,21,Operations,Operations Manager,Bachelor's,Married,2022-02-15,Active,,40764,4,2,2,No,Travel_Frequently,3,4,3,52,2
+EMP0478,Female,21,Marketing,Marketing Manager,Bachelor's,Divorced,2025-10-27,Active,,54269,1,0,1,No,Travel_Frequently,4,2,2,18,0
+EMP0479,Male,56,Human Resources,HR Executive,Bachelor's,Divorced,2024-09-27,Active,,29510,2,0,1,No,Non-Travel,1,4,3,19,1
+EMP0480,Female,52,Human Resources,HR Executive,Bachelor's,Married,2009-11-11,Active,,49904,16,2,5,No,Non-Travel,4,3,3,22,4
+EMP0481,Female,23,IT,Software Developer,High School,Divorced,2023-01-16,Resigned,2025-11-14,38069,3,2,1,No,Travel_Rarely,3,3,3,19,0
+EMP0482,Male,50,Marketing,Marketing Executive,Doctorate,Divorced,2011-11-25,Active,,62028,14,1,4,Yes,Non-Travel,2,4,4,11,3
+EMP0483,Female,22,Customer Support,Support Executive,High School,Married,2025-12-24,Active,,24039,0,0,1,Yes,Non-Travel,1,3,3,60,0
+EMP0484,Male,27,Human Resources,Recruiter,High School,Married,2020-08-03,Resigned,2025-10-24,58267,6,5,2,No,Travel_Rarely,1,3,2,72,0
+EMP0485,Female,40,Sales,Sales Manager,Bachelor's,Married,2003-07-12,Active,,27541,23,8,5,Yes,Travel_Rarely,2,3,2,69,1
+EMP0486,Male,32,Human Resources,HR Executive,Master's,Divorced,2012-01-17,Active,,35604,14,3,4,Yes,Travel_Rarely,3,3,2,80,3
+EMP0487,Male,41,Human Resources,HR Executive,Doctorate,Single,2008-09-27,Active,,22407,18,7,5,No,Non-Travel,4,4,3,40,2
+EMP0488,Female,54,Operations,Operations Executive,Master's,Divorced,2004-08-12,Active,,55733,22,7,5,No,Non-Travel,2,4,3,7,1
+EMP0489,Male,50,Finance,Finance Manager,Bachelor's,Single,2015-09-29,Active,,60528,11,4,3,No,Non-Travel,2,3,3,12,1
+EMP0490,Male,47,Marketing,Marketing Executive,Doctorate,Married,2005-07-16,Active,,63678,21,9,5,Yes,Non-Travel,2,4,4,40,1
+EMP0491,Female,37,Marketing,Marketing Manager,Doctorate,Married,2018-04-25,Active,,61821,8,3,3,No,Travel_Frequently,4,1,3,46,3
+EMP0492,Female,49,Operations,Operations Executive,Master's,Married,2008-09-21,Active,,61955,18,7,5,No,Travel_Frequently,3,4,3,22,3
+EMP0493,Male,24,Marketing,Digital Marketer,High School,Divorced,2023-12-05,Active,,61422,2,1,1,No,Non-Travel,1,2,3,17,0
+EMP0494,Female,48,Data & Analytics,BI Developer,Bachelor's,Single,2003-09-07,Active,,52459,23,6,5,Yes,Travel_Rarely,3,3,4,41,3
+EMP0495,Male,55,Finance,Accountant,Master's,Divorced,2013-09-19,Active,,56654,13,5,4,No,Non-Travel,2,1,2,18,3
+EMP0496,Male,26,Customer Support,Team Lead,Bachelor's,Divorced,2023-06-18,Active,,58177,3,0,1,No,Travel_Frequently,3,2,2,58,0
+EMP0497,Female,51,Customer Support,Support Manager,High School,Married,2017-08-10,Active,,61349,9,2,3,Yes,Travel_Frequently,2,4,3,72,2
+EMP0498,Male,59,Customer Support,Support Executive,Master's,Divorced,2017-01-15,Active,,18880,9,2,3,No,Non-Travel,1,3,3,43,4
+EMP0499,Male,42,Human Resources,HR Manager,Master's,Married,2013-07-06,Resigned,2017-05-28,43789,13,1,4,No,Travel_Rarely,2,1,3,6,3
+EMP0500,Female,53,Marketing,Digital Marketer,Doctorate,Single,2014-07-19,Active,,35392,12,5,4,Yes,Non-Travel,3,4,4,77,3
+EMP0501,Female,56,Customer Support,Support Manager,Bachelor's,Single,2011-06-21,Active,,53680,15,3,4,Yes,Travel_Rarely,1,1,3,61,0
+EMP0502,Male,40,Marketing,Digital Marketer,Master's,Married,2006-02-20,Active,,22125,20,7,5,No,Non-Travel,1,3,3,32,0
+EMP0503,Male,29,Data & Analytics,Data Analyst,Doctorate,Divorced,2019-09-12,Active,,63321,7,1,2,Yes,Travel_Rarely,1,2,2,15,3
+EMP0504,Male,39,Operations,Operations Manager,Doctorate,Married,2020-05-27,Active,,21655,6,4,2,Yes,Travel_Rarely,4,3,3,28,3
+EMP0505,Male,58,Finance,Accountant,High School,Single,2021-01-10,Active,,57394,5,1,2,Yes,Travel_Rarely,3,2,2,69,0
+EMP0506,Male,34,Sales,Sales Executive,Doctorate,Divorced,2013-09-24,Active,,32883,13,9,4,No,Travel_Frequently,3,2,3,3,2
+EMP0507,Female,34,Customer Support,Support Executive,Doctorate,Married,2021-04-10,Active,,35343,5,0,2,No,Travel_Rarely,2,3,3,27,1
+EMP0508,Male,28,Finance,Financial Analyst,Master's,Single,2020-05-30,Active,,34241,6,1,2,Yes,Travel_Frequently,4,3,3,25,0
+EMP0509,Female,23,Data & Analytics,Data Scientist,Doctorate,Married,2020-04-02,Active,,42509,6,3,2,Yes,Travel_Rarely,4,3,3,53,0
+EMP0510,Male,24,Data & Analytics,Data Scientist,High School,Married,2019-04-17,Active,,62273,7,2,2,No,Travel_Rarely,4,3,3,57,1
+EMP0511,Female,31,Data & Analytics,BI Developer,Bachelor's,Single,2020-02-03,Active,,79515,6,1,2,No,Travel_Frequently,4,2,3,45,3
+EMP0512,Male,30,Human Resources,HR Executive,High School,Married,2019-08-26,Active,,39266,7,3,2,No,Travel_Rarely,3,4,2,74,1
+EMP0513,Female,57,Data & Analytics,Data Scientist,Bachelor's,Divorced,2001-05-19,Active,,61229,25,6,5,Yes,Travel_Rarely,3,3,3,50,4
+EMP0514,Male,51,Operations,Operations Executive,Doctorate,Married,2002-01-31,Active,,46871,24,2,5,No,Non-Travel,3,1,3,22,3
+EMP0515,Male,47,Operations,Operations Manager,Master's,Married,2024-03-10,Active,,38785,2,2,1,No,Travel_Frequently,4,4,4,2,0
+EMP0516,Male,59,Human Resources,HR Executive,High School,Married,2014-04-10,Active,,54815,12,1,4,No,Travel_Rarely,3,1,3,51,1
+EMP0517,Female,56,Data & Analytics,Data Analyst,High School,Single,2008-10-23,Active,,56235,18,4,5,Yes,Travel_Frequently,4,2,3,33,0
+EMP0518,Female,57,Finance,Financial Analyst,Bachelor's,Married,2013-09-05,Active,,45708,13,6,4,Yes,Travel_Frequently,1,2,3,74,0
+EMP0519,Female,35,Human Resources,Recruiter,High School,Married,2021-12-10,Active,,19643,4,2,2,Yes,Travel_Rarely,3,1,3,8,0
+EMP0520,Male,46,Finance,Financial Analyst,Bachelor's,Single,2009-12-27,Active,,49411,16,5,5,No,Travel_Rarely,3,3,3,53,2
+EMP0521,Male,29,Operations,Operations Executive,High School,Married,2015-08-12,Active,,50342,11,2,3,No,Non-Travel,1,2,3,38,3
+EMP0522,Female,49,IT,Software Developer,Master's,Divorced,2006-08-01,Active,,52505,20,7,5,No,Travel_Rarely,3,2,3,54,0
+EMP0523,Female,47,Operations,Operations Executive,Master's,Married,2022-10-11,Active,,35113,4,0,2,No,Travel_Frequently,1,2,3,44,2
+EMP0524,Male,22,Customer Support,Support Executive,Bachelor's,Single,2023-11-01,Active,,53300,3,2,1,No,Travel_Frequently,1,3,2,21,0
+EMP0525,Male,30,Sales,Sales Manager,Bachelor's,Divorced,2024-09-10,Active,,26386,2,0,1,No,Travel_Rarely,4,4,3,0,1
+EMP0526,Female,34,Marketing,Marketing Executive,Bachelor's,Single,2015-12-06,Active,,57889,10,10,3,Yes,Travel_Frequently,2,2,2,60,0
+EMP0527,Male,59,Data & Analytics,BI Developer,High School,Single,2013-02-21,Active,,72650,13,4,4,Yes,Non-Travel,2,2,3,50,4
+EMP0528,Male,35,Operations,Process Analyst,Doctorate,Single,2009-05-02,Active,,59886,17,4,5,No,Travel_Frequently,2,2,4,39,3
+EMP0529,Male,21,Customer Support,Team Lead,Bachelor's,Married,2024-09-19,Active,,32001,2,0,1,Yes,Non-Travel,1,1,4,44,1
+EMP0530,Female,21,Data & Analytics,Data Analyst,Doctorate,Single,2024-01-22,Active,,75550,2,1,1,Yes,Travel_Frequently,1,2,4,7,1
+EMP0531,Female,22,Human Resources,HR Manager,Master's,Single,2023-04-26,Active,,18224,3,1,1,No,Travel_Frequently,2,4,4,70,0
+EMP0532,Female,33,Sales,Account Manager,Bachelor's,Married,2013-09-18,Active,,24469,13,1,4,Yes,Non-Travel,3,1,2,50,4
+EMP0533,Female,54,Customer Support,Support Manager,Master's,Divorced,2010-03-05,Active,,36912,16,0,5,No,Travel_Frequently,2,3,3,24,1
+EMP0534,Female,44,Data & Analytics,Data Analyst,Bachelor's,Married,2020-07-09,Resigned,2024-10-07,54036,6,3,2,No,Non-Travel,4,3,3,80,1
+EMP0535,Female,37,IT,Software Developer,Doctorate,Married,2019-03-19,Active,,48138,7,0,2,No,Non-Travel,3,1,3,65,2
+EMP0536,Female,29,Customer Support,Team Lead,High School,Single,2017-05-16,Active,,54491,9,7,3,No,Travel_Frequently,2,2,2,38,0
+EMP0537,Male,48,IT,System Administrator,High School,Married,2020-11-15,Active,,31285,5,4,2,Yes,Non-Travel,1,1,3,26,0
+EMP0538,Female,58,Data & Analytics,Data Scientist,Bachelor's,Married,2009-01-06,Active,,50812,17,8,5,Yes,Travel_Rarely,4,4,3,53,0
+EMP0539,Male,28,Human Resources,HR Manager,Master's,Married,2020-08-03,Active,,55093,6,3,2,No,Travel_Frequently,4,3,3,60,0
+EMP0540,Male,30,IT,IT Support Specialist,Bachelor's,Single,2019-10-18,Active,,43728,7,3,2,Yes,Travel_Rarely,4,3,3,11,1
+EMP0541,Male,40,Customer Support,Team Lead,High School,Single,2004-03-26,Active,,61801,22,9,5,Yes,Non-Travel,1,3,3,5,1
+EMP0542,Male,57,Human Resources,HR Executive,Bachelor's,Married,2003-03-19,Active,,28536,23,2,5,No,Non-Travel,1,4,3,50,2
+EMP0543,Female,39,IT,System Administrator,Bachelor's,Divorced,2012-05-27,Active,,45248,14,1,4,Yes,Travel_Frequently,4,1,3,9,0
+EMP0544,Female,49,Finance,Financial Analyst,Doctorate,Single,2002-03-05,Active,,62375,24,1,5,Yes,Non-Travel,2,1,3,48,4
+EMP0545,Female,48,Marketing,Digital Marketer,Doctorate,Married,2010-11-08,Active,,60102,15,5,4,No,Travel_Rarely,1,2,3,2,3
+EMP0546,Male,46,Data & Analytics,Data Scientist,Bachelor's,Married,2017-05-06,Active,,70459,9,1,3,No,Travel_Frequently,1,1,4,51,0
+EMP0547,Female,24,Customer Support,Support Manager,Doctorate,Divorced,2023-03-15,Active,,64251,3,0,1,Yes,Non-Travel,4,3,3,78,0
+EMP0548,Male,47,Operations,Process Analyst,Bachelor's,Single,2019-11-11,Active,,64571,6,3,2,No,Travel_Frequently,1,3,4,68,3
+EMP0549,Female,39,Customer Support,Support Executive,Bachelor's,Married,2018-05-10,Active,,54339,8,8,3,Yes,Non-Travel,1,3,2,28,4
+EMP0550,Female,46,Sales,Account Manager,Master's,Married,2008-08-07,Active,,33066,18,8,5,Yes,Non-Travel,1,2,4,25,1
+EMP0551,Female,56,Sales,Sales Manager,Doctorate,Married,2019-06-21,Active,,44278,7,1,2,Yes,Travel_Rarely,1,1,3,71,3
+EMP0552,Female,26,IT,System Administrator,Doctorate,Divorced,2019-06-03,Active,,70150,7,0,2,Yes,Travel_Frequently,1,4,3,61,0
+EMP0553,Female,31,Sales,Account Manager,Doctorate,Divorced,2021-03-30,Active,,19872,5,3,2,No,Travel_Rarely,4,3,3,11,2
+EMP0554,Female,44,Sales,Account Manager,Master's,Single,2001-09-14,Resigned,2026-09-30,28714,25,4,5,Yes,Non-Travel,2,1,3,76,4
+EMP0555,Female,43,Data & Analytics,BI Developer,High School,Single,2019-07-18,Active,,76638,7,4,2,Yes,Travel_Frequently,2,2,2,3,1
+EMP0556,Female,53,Customer Support,Team Lead,Doctorate,Married,2012-03-24,Active,,20783,14,7,4,Yes,Travel_Rarely,2,3,3,33,4
+EMP0557,Male,33,Sales,Sales Manager,Doctorate,Married,2023-03-26,Active,,43527,3,3,1,No,Travel_Frequently,1,3,4,77,0
+EMP0558,Male,33,Human Resources,HR Executive,Bachelor's,Divorced,2025-04-30,Active,,51448,1,0,1,Yes,Travel_Rarely,1,3,2,46,0
+EMP0559,Female,43,Customer Support,Team Lead,Doctorate,Divorced,2003-06-28,Active,,34618,23,6,5,Yes,Non-Travel,1,3,2,2,4
+EMP0560,Male,29,Human Resources,HR Manager,High School,Married,2023-11-27,Active,,60868,2,0,1,No,Travel_Rarely,1,3,2,22,1
+EMP0561,Male,39,Sales,Account Manager,High School,Married,2012-03-06,Resigned,2023-04-23,57780,14,3,4,No,Non-Travel,4,1,2,65,3
+EMP0562,Female,22,Human Resources,Recruiter,Master's,Divorced,2022-06-08,Active,,25295,4,1,2,Yes,Travel_Frequently,3,1,4,24,1
+EMP0563,Male,21,Finance,Finance Manager,Master's,Married,2025-05-29,Active,,81514,1,1,1,Yes,Travel_Frequently,3,1,3,2,0
+EMP0564,Female,46,Operations,Operations Manager,High School,Single,2012-06-20,Active,,49362,14,0,4,Yes,Non-Travel,3,4,3,18,3
+EMP0565,Male,33,Sales,Account Manager,High School,Married,2017-03-21,Resigned,2018-08-12,18229,9,4,3,Yes,Travel_Rarely,3,2,3,45,2
+EMP0566,Male,25,Customer Support,Team Lead,High School,Married,2022-06-19,Active,,29088,4,4,2,Yes,Non-Travel,1,2,3,80,2
+EMP0567,Female,52,Operations,Process Analyst,Doctorate,Married,2000-04-19,Active,,28532,26,10,5,Yes,Travel_Rarely,1,4,2,15,4
+EMP0568,Female,54,IT,IT Support Specialist,Master's,Single,2005-04-15,Active,,65770,21,10,5,No,Non-Travel,4,3,3,42,0
+EMP0569,Male,41,Data & Analytics,Data Scientist,Bachelor's,Single,2008-06-27,Active,,65874,18,9,5,No,Non-Travel,1,4,2,57,4
+EMP0570,Male,43,Finance,Finance Manager,Master's,Married,2013-07-04,Active,,26612,13,9,4,Yes,Non-Travel,1,2,3,57,2
+EMP0571,Male,57,Customer Support,Support Executive,High School,Single,2013-01-19,Active,,18004,13,6,4,Yes,Non-Travel,1,3,2,77,3
+EMP0572,Female,55,Data & Analytics,BI Developer,Master's,Single,2000-04-25,Active,,55369,26,2,5,Yes,Non-Travel,4,3,3,37,3
+EMP0573,Male,59,IT,System Administrator,Doctorate,Divorced,2003-07-02,Resigned,2023-10-31,40617,23,7,5,No,Travel_Frequently,4,1,3,72,4
+EMP0574,Female,36,Human Resources,Recruiter,Master's,Divorced,2020-04-26,Active,,22784,6,4,2,Yes,Non-Travel,3,3,3,76,0
+EMP0575,Female,48,IT,System Administrator,Doctorate,Married,2005-02-26,Active,,67357,21,5,5,Yes,Travel_Rarely,4,1,3,0,2
+EMP0576,Female,37,Finance,Finance Manager,Doctorate,Married,2017-01-05,Active,,40252,9,5,3,Yes,Travel_Rarely,3,3,3,8,1
+EMP0577,Female,52,Marketing,Digital Marketer,High School,Divorced,2009-08-31,Active,,35957,17,0,5,Yes,Non-Travel,3,1,3,27,3
+EMP0578,Female,33,Data & Analytics,Data Scientist,Master's,Single,2016-05-30,Active,,62334,10,7,3,Yes,Non-Travel,3,2,2,35,1
+EMP0579,Female,58,Sales,Sales Executive,Master's,Single,2022-01-14,Active,,23227,4,3,2,No,Travel_Rarely,1,4,2,6,2
+EMP0580,Male,38,Marketing,Digital Marketer,Doctorate,Divorced,2017-09-24,Active,,28452,9,2,3,Yes,Travel_Rarely,2,4,3,50,2
+EMP0581,Female,27,Data & Analytics,Data Analyst,Bachelor's,Single,2023-09-18,Active,,60748,3,2,1,No,Travel_Frequently,4,3,3,80,1
+EMP0582,Female,48,Operations,Operations Manager,Bachelor's,Divorced,2011-09-03,Active,,56945,15,4,4,Yes,Travel_Frequently,4,2,4,64,4
+EMP0583,Male,55,Customer Support,Team Lead,High School,Single,2006-12-30,Resigned,2019-11-15,21363,19,6,5,Yes,Travel_Frequently,1,1,3,77,1
+EMP0584,Female,28,Human Resources,Recruiter,Bachelor's,Divorced,2017-09-16,Resigned,2025-05-19,41944,9,1,3,Yes,Travel_Frequently,3,1,3,14,3
+EMP0585,Male,45,Sales,Sales Manager,Master's,Divorced,2025-11-13,Active,,33401,0,0,1,No,Travel_Rarely,2,3,3,38,0
+EMP0586,Female,29,Sales,Sales Executive,High School,Married,2024-09-02,Active,,20702,2,1,1,Yes,Travel_Frequently,4,1,2,1,1
+EMP0587,Female,54,Customer Support,Team Lead,High School,Married,2025-03-18,Active,,49424,1,1,1,Yes,Non-Travel,2,1,3,80,0
+EMP0588,Male,43,Marketing,Marketing Manager,Bachelor's,Married,2012-01-14,Active,,33467,14,9,4,Yes,Non-Travel,2,3,3,42,1
+EMP0589,Male,39,Finance,Financial Analyst,Master's,Divorced,2020-07-22,Active,,40562,6,3,2,Yes,Non-Travel,4,1,4,26,1
+EMP0590,Male,51,Finance,Finance Manager,Master's,Married,2020-12-04,Active,,34400,5,2,2,Yes,Travel_Frequently,4,2,3,32,2
+EMP0591,Male,22,Human Resources,HR Manager,Master's,Single,2024-01-11,Active,,55993,2,1,1,Yes,Travel_Rarely,2,2,3,5,1
+EMP0592,Female,30,Marketing,Digital Marketer,Bachelor's,Single,2014-01-15,Active,,61621,12,1,4,No,Non-Travel,3,1,4,16,0
+EMP0593,Female,42,Finance,Financial Analyst,High School,Single,2017-03-01,Active,,71886,9,6,3,Yes,Non-Travel,4,3,2,50,4
+EMP0594,Female,56,Finance,Accountant,High School,Married,2006-02-28,Active,,49812,20,2,5,No,Travel_Frequently,4,2,3,51,4
+EMP0595,Female,37,Customer Support,Team Lead,Bachelor's,Single,2016-07-05,Active,,51756,10,6,3,No,Non-Travel,3,4,4,20,1
+EMP0596,Male,53,IT,Software Developer,Master's,Single,2001-08-03,Active,,27200,25,8,5,No,Travel_Rarely,1,2,3,22,3
+EMP0597,Female,30,Human Resources,HR Manager,High School,Divorced,2025-12-15,Active,,55749,0,0,1,No,Travel_Frequently,1,1,3,73,0
+EMP0598,Male,53,Marketing,Marketing Executive,Doctorate,Divorced,2021-02-10,Active,,50953,5,3,2,Yes,Non-Travel,3,2,2,56,1
+EMP0599,Female,58,Human Resources,Recruiter,Bachelor's,Divorced,2025-09-10,Active,,60823,1,0,1,No,Non-Travel,2,2,4,39,0
+EMP0600,Female,55,Human Resources,HR Executive,Bachelor's,Divorced,2019-08-12,Active,,34576,7,3,2,Yes,Travel_Rarely,4,4,2,78,2
+EMP0601,Female,23,Marketing,Marketing Manager,Bachelor's,Single,2022-05-31,Active,,46047,4,1,2,Yes,Travel_Frequently,2,3,3,26,1
+EMP0602,Male,49,Human Resources,Recruiter,Doctorate,Single,2020-10-02,Resigned,2025-01-20,25459,6,3,2,No,Travel_Frequently,1,3,4,24,0
+EMP0603,Female,44,IT,IT Support Specialist,Doctorate,Single,2014-01-17,Active,,32324,12,5,4,No,Non-Travel,4,1,2,15,1
+EMP0604,Male,28,Data & Analytics,Data Analyst,High School,Divorced,2022-10-11,Active,,63094,4,0,2,No,Travel_Frequently,4,3,2,12,0
+EMP0605,Male,56,Customer Support,Support Executive,High School,Divorced,2024-04-01,Active,,57722,2,2,1,Yes,Non-Travel,1,2,3,33,1
+EMP0606,Male,30,Customer Support,Support Executive,Bachelor's,Married,2023-05-23,Active,,62606,3,0,1,Yes,Travel_Frequently,3,3,3,74,0
+EMP0607,Male,22,Customer Support,Team Lead,High School,Single,2022-09-14,Active,,21737,4,3,2,No,Travel_Rarely,1,3,4,20,2
+EMP0608,Female,31,Operations,Operations Manager,Master's,Married,2015-03-30,Active,,27563,11,4,3,No,Non-Travel,4,4,3,8,0
+EMP0609,Male,41,IT,System Administrator,Master's,Single,2009-04-14,Active,,34207,17,8,5,No,Travel_Frequently,3,4,3,41,2
+EMP0610,Male,21,Data & Analytics,Data Analyst,Master's,Married,2022-11-21,Active,,32106,3,0,1,No,Travel_Frequently,3,4,3,80,0
+EMP0611,Female,49,Marketing,Marketing Manager,Bachelor's,Single,2025-02-28,Resigned,2026-04-25,20852,1,0,1,Yes,Travel_Rarely,4,3,2,29,0
+EMP0612,Male,40,Sales,Account Manager,Doctorate,Married,2025-04-07,Active,,45801,1,1,1,No,Travel_Frequently,3,2,3,30,0
+EMP0613,Male,51,Operations,Process Analyst,High School,Divorced,2006-10-08,Active,,40765,20,5,5,Yes,Travel_Frequently,2,2,3,12,0
+EMP0614,Female,59,Data & Analytics,BI Developer,High School,Divorced,2010-03-19,Active,,47583,16,8,5,No,Non-Travel,1,2,3,77,2
+EMP0615,Female,52,Sales,Sales Manager,Bachelor's,Divorced,2020-06-06,Active,,61250,6,5,2,No,Travel_Frequently,4,1,3,54,3
+EMP0616,Female,25,Customer Support,Support Manager,High School,Married,2023-11-17,Active,,52133,2,0,1,No,Non-Travel,4,1,3,78,1
+EMP0617,Male,44,Sales,Account Manager,Doctorate,Married,2009-12-31,Active,,24468,16,6,5,Yes,Travel_Rarely,2,3,2,8,2
+EMP0618,Male,58,Marketing,Marketing Executive,Bachelor's,Divorced,2011-06-04,Active,,27055,15,9,4,No,Travel_Rarely,1,1,4,64,1
+EMP0619,Male,32,Sales,Sales Executive,High School,Single,2018-05-05,Active,,58144,8,7,3,No,Travel_Rarely,1,2,3,46,2
+EMP0620,Male,39,Sales,Sales Executive,Master's,Single,2023-09-22,Active,,34179,3,1,1,Yes,Travel_Frequently,2,4,3,47,0
+EMP0621,Male,26,Customer Support,Support Executive,Master's,Divorced,2019-07-10,Resigned,2024-03-17,24377,7,1,2,Yes,Travel_Frequently,4,1,3,67,3
+EMP0622,Female,52,Operations,Operations Manager,Master's,Married,2009-09-06,Active,,34592,17,5,5,Yes,Non-Travel,1,3,2,38,2
+EMP0623,Male,43,Operations,Operations Manager,Master's,Single,2008-04-01,Active,,50627,18,5,5,Yes,Travel_Rarely,1,3,3,70,4
+EMP0624,Male,56,Marketing,Marketing Manager,Master's,Single,2005-07-13,Active,,22721,21,8,5,No,Travel_Frequently,4,3,3,10,0
+EMP0625,Female,54,Data & Analytics,BI Developer,Master's,Divorced,2009-08-20,Active,,50949,17,10,5,Yes,Travel_Rarely,1,1,4,39,3
+EMP0626,Female,44,Marketing,Marketing Manager,Master's,Married,2005-03-26,Active,,61848,21,10,5,No,Travel_Rarely,4,2,2,69,4
+EMP0627,Female,30,Customer Support,Support Executive,High School,Single,2014-07-01,Active,,45924,12,7,4,Yes,Travel_Rarely,2,2,3,62,1
+EMP0628,Female,54,Customer Support,Team Lead,High School,Single,2002-05-12,Active,,53691,24,3,5,No,Travel_Frequently,2,1,3,78,2
+EMP0629,Female,44,Finance,Accountant,Master's,Single,2019-03-05,Active,,64490,7,5,2,Yes,Travel_Rarely,2,2,4,10,0
+EMP0630,Female,52,Sales,Sales Manager,Bachelor's,Married,2003-12-31,Active,,55356,22,8,5,No,Non-Travel,4,4,3,57,4
+EMP0631,Female,34,Marketing,Marketing Executive,Master's,Single,2025-01-11,Active,,25414,1,1,1,No,Travel_Frequently,1,4,3,27,0
+EMP0632,Female,48,Data & Analytics,Data Scientist,High School,Married,2018-03-13,Active,,64125,8,5,3,No,Travel_Frequently,2,4,2,1,4
+EMP0633,Female,41,IT,Software Developer,Bachelor's,Single,2010-06-30,Active,,51437,16,10,5,No,Travel_Rarely,1,4,3,62,3
+EMP0634,Male,46,Human Resources,HR Executive,Bachelor's,Married,2015-10-23,Active,,46005,11,2,3,No,Non-Travel,3,2,2,62,3
+EMP0635,Male,36,Customer Support,Support Executive,Bachelor's,Married,2014-01-07,Active,,40582,12,4,4,No,Travel_Rarely,1,3,4,52,4
+EMP0636,Female,49,IT,IT Support Specialist,Bachelor's,Married,2004-08-09,Active,,41029,22,2,5,Yes,Non-Travel,1,3,3,63,1
+EMP0637,Male,32,Sales,Account Manager,High School,Single,2011-09-02,Active,,40708,15,5,4,Yes,Travel_Frequently,1,2,2,4,0
+EMP0638,Male,37,Operations,Operations Executive,Bachelor's,Single,2011-01-11,Active,,19707,15,4,4,Yes,Travel_Rarely,3,3,2,22,2
+EMP0639,Female,44,Data & Analytics,Data Scientist,High School,Married,2000-12-10,Active,,57317,25,7,5,Yes,Travel_Rarely,4,2,2,3,3
+EMP0640,Female,54,Data & Analytics,BI Developer,Bachelor's,Married,2004-02-11,Active,,33176,22,8,5,Yes,Travel_Frequently,3,4,3,41,0
+EMP0641,Male,32,Operations,Operations Manager,High School,Divorced,2016-11-14,Active,,23054,9,0,3,Yes,Travel_Frequently,4,4,3,16,2
+EMP0642,Male,44,Finance,Accountant,High School,Divorced,2023-10-22,Active,,27916,3,3,1,No,Travel_Rarely,2,1,2,32,1
+EMP0643,Male,48,Customer Support,Team Lead,High School,Divorced,2012-01-02,Active,,31253,14,6,4,No,Travel_Frequently,3,4,4,43,1
+EMP0644,Female,30,Data & Analytics,BI Developer,High School,Divorced,2016-09-03,Active,,35926,10,1,3,Yes,Travel_Rarely,3,4,3,16,0
+EMP0645,Female,45,Customer Support,Support Manager,Bachelor's,Married,2022-06-24,Active,,60966,4,3,2,No,Travel_Frequently,4,3,3,36,1
+EMP0646,Male,25,Data & Analytics,Data Analyst,Bachelor's,Divorced,2019-04-03,Active,,52798,7,2,2,Yes,Travel_Rarely,3,2,3,30,3
+EMP0647,Female,30,Operations,Operations Manager,High School,Divorced,2021-05-13,Active,,55380,5,3,2,Yes,Travel_Rarely,4,2,3,67,1
+EMP0648,Male,24,Sales,Account Manager,Bachelor's,Single,2023-03-03,Active,,30766,3,1,1,No,Non-Travel,4,4,3,19,0
+EMP0649,Female,52,IT,IT Support Specialist,High School,Single,2024-08-14,Active,,43427,2,0,1,Yes,Travel_Rarely,1,1,4,76,0
+EMP0650,Male,44,Data & Analytics,Data Analyst,Doctorate,Divorced,2017-09-01,Active,,36307,9,1,3,No,Travel_Frequently,3,2,3,19,2
+EMP0651,Female,50,Data & Analytics,BI Developer,High School,Divorced,2007-03-26,Active,,73919,19,1,5,No,Travel_Frequently,2,3,3,58,3
+EMP0652,Male,57,Finance,Accountant,Master's,Divorced,2020-03-21,Active,,31054,6,0,2,No,Travel_Rarely,2,1,2,58,3
+EMP0653,Male,55,Marketing,Marketing Manager,Doctorate,Single,2023-06-01,Active,,32599,3,3,1,No,Travel_Rarely,3,3,4,42,1
+EMP0654,Male,22,IT,IT Support Specialist,Doctorate,Divorced,2025-03-09,Resigned,2026-04-21,38559,1,1,1,No,Non-Travel,2,3,4,34,0
+EMP0655,Female,35,Marketing,Digital Marketer,Master's,Divorced,2014-09-12,Active,,44910,12,5,4,Yes,Travel_Frequently,4,4,3,8,3
+EMP0656,Male,41,Data & Analytics,Data Scientist,Master's,Married,2016-01-03,Active,,72248,10,4,3,No,Non-Travel,4,1,3,19,3
+EMP0657,Female,51,Finance,Financial Analyst,Doctorate,Married,2017-11-17,Active,,55106,8,8,3,Yes,Non-Travel,4,4,2,64,2
+EMP0658,Female,47,Sales,Sales Manager,High School,Divorced,2015-01-20,Active,,34788,11,8,3,Yes,Non-Travel,4,1,4,57,1
+EMP0659,Male,26,Operations,Process Analyst,Master's,Married,2022-09-21,Active,,45466,4,3,2,No,Travel_Frequently,1,1,2,50,0
+EMP0660,Female,44,Operations,Operations Executive,Master's,Divorced,2005-01-05,Active,,47258,21,1,5,No,Non-Travel,4,4,4,31,4
+EMP0661,Male,42,Marketing,Digital Marketer,Master's,Married,2004-01-12,Active,,40828,22,9,5,No,Travel_Rarely,1,1,2,17,2
+EMP0662,Male,57,Sales,Sales Manager,High School,Single,2016-10-25,Active,,32978,10,0,3,No,Non-Travel,1,1,3,13,4
+EMP0663,Male,50,Finance,Finance Manager,High School,Single,2003-09-18,Active,,33124,23,10,5,No,Travel_Frequently,3,1,3,44,4
+EMP0664,Male,53,Human Resources,Recruiter,Doctorate,Divorced,2017-12-10,Resigned,2025-09-01,47089,8,8,3,No,Non-Travel,2,1,2,71,1
+EMP0665,Female,25,IT,IT Support Specialist,Doctorate,Divorced,2023-10-26,Active,,53606,3,2,1,No,Non-Travel,4,2,3,70,0
+EMP0666,Male,38,Human Resources,HR Manager,Master's,Divorced,2024-02-21,Active,,51710,2,1,1,Yes,Non-Travel,3,2,3,8,0
+EMP0667,Female,58,Human Resources,HR Manager,High School,Married,2012-05-02,Active,,31837,14,3,4,No,Travel_Rarely,2,4,2,6,3
+EMP0668,Male,30,Operations,Operations Manager,Bachelor's,Married,2016-04-05,Active,,27461,10,5,3,Yes,Non-Travel,2,2,3,38,0
+EMP0669,Female,52,Human Resources,HR Executive,High School,Married,2008-07-14,Active,,28444,18,2,5,Yes,Travel_Frequently,2,1,2,41,0
+EMP0670,Female,42,Customer Support,Team Lead,Bachelor's,Single,2002-12-01,Active,,33323,23,7,5,Yes,Non-Travel,3,1,3,43,2
+EMP0671,Female,47,Data & Analytics,Data Analyst,Bachelor's,Married,2021-05-16,Active,,70898,5,4,2,Yes,Non-Travel,4,4,3,51,2
+EMP0672,Female,53,Human Resources,HR Manager,Master's,Married,2025-02-04,Active,,30478,1,1,1,No,Travel_Rarely,1,4,2,69,0
+EMP0673,Male,47,Finance,Finance Manager,High School,Single,2017-11-18,Active,,45037,8,5,3,Yes,Non-Travel,1,1,3,4,3
+EMP0674,Female,21,Data & Analytics,Data Scientist,High School,Divorced,2025-08-26,Active,,68267,1,1,1,No,Travel_Frequently,1,3,2,5,0
+EMP0675,Female,54,Human Resources,Recruiter,Doctorate,Divorced,2015-04-24,Active,,46402,11,10,3,Yes,Travel_Rarely,3,1,3,1,0
+EMP0676,Male,33,Sales,Sales Executive,Doctorate,Divorced,2022-08-15,Active,,44069,4,1,2,Yes,Travel_Rarely,1,1,3,14,2
+EMP0677,Male,30,Data & Analytics,Data Analyst,Doctorate,Single,2023-12-26,Active,,73025,2,2,1,Yes,Travel_Rarely,1,2,4,63,0
+EMP0678,Female,21,Data & Analytics,Data Scientist,Doctorate,Divorced,2025-11-15,Resigned,2026-08-28,47770,0,0,1,No,Travel_Frequently,1,3,4,63,0
+EMP0679,Male,30,Operations,Process Analyst,Doctorate,Married,2025-08-17,Active,,43096,1,1,1,Yes,Travel_Frequently,4,1,4,10,0
+EMP0680,Male,57,Sales,Sales Executive,Bachelor's,Divorced,2012-03-24,Active,,45145,14,5,4,No,Travel_Rarely,2,4,4,48,3
+EMP0681,Female,29,Finance,Accountant,Master's,Married,2017-10-16,Active,,51325,9,5,3,No,Travel_Frequently,3,1,3,17,4
+EMP0682,Female,28,Human Resources,Recruiter,Doctorate,Married,2025-10-28,Active,,24780,1,0,1,Yes,Non-Travel,3,3,3,62,0
+EMP0683,Female,48,Operations,Process Analyst,Bachelor's,Single,2021-12-14,Active,,39005,4,1,2,Yes,Travel_Frequently,4,1,3,23,0
+EMP0684,Male,55,Finance,Finance Manager,Bachelor's,Single,2020-04-11,Active,,34474,6,4,2,Yes,Travel_Frequently,3,4,3,0,1
+EMP0685,Female,54,IT,System Administrator,Bachelor's,Single,2002-11-12,Active,,76483,23,0,5,No,Non-Travel,1,1,2,15,0
+EMP0686,Female,51,Data & Analytics,BI Developer,Doctorate,Divorced,2011-04-07,Active,,30090,15,8,4,No,Non-Travel,3,3,3,43,1
+EMP0687,Male,58,Sales,Sales Manager,High School,Married,2004-06-14,Active,,37225,22,10,5,No,Travel_Rarely,3,2,3,16,4
+EMP0688,Female,31,Customer Support,Support Executive,Bachelor's,Married,2019-11-12,Active,,34524,6,5,2,No,Travel_Rarely,3,4,3,18,0
+EMP0689,Female,44,Operations,Operations Manager,Master's,Single,2009-09-08,Active,,52010,17,1,5,No,Travel_Rarely,1,4,4,11,1
+EMP0690,Male,38,Marketing,Digital Marketer,High School,Married,2009-04-07,Active,,27888,17,7,5,Yes,Travel_Rarely,1,1,2,65,2
+EMP0691,Male,51,IT,Software Developer,Master's,Divorced,2006-11-05,Active,,72166,20,1,5,Yes,Non-Travel,3,4,2,64,2
+EMP0692,Female,36,Sales,Sales Manager,Master's,Married,2025-11-19,Active,,33704,0,0,1,Yes,Travel_Rarely,1,3,3,58,0
+EMP0693,Male,35,Data & Analytics,Data Scientist,Bachelor's,Single,2010-12-10,Active,,67768,15,6,4,Yes,Travel_Frequently,4,3,2,25,2
+EMP0694,Male,50,Customer Support,Support Executive,Bachelor's,Single,2012-02-21,Active,,39813,14,3,4,Yes,Non-Travel,2,2,3,13,2
+EMP0695,Male,55,Sales,Sales Manager,Bachelor's,Single,2002-10-07,Active,,33427,24,4,5,No,Non-Travel,4,1,4,12,1
+EMP0696,Male,30,Human Resources,HR Executive,Master's,Married,2015-03-21,Active,,51676,11,9,3,Yes,Travel_Rarely,3,2,3,53,2
+EMP0697,Female,59,Sales,Sales Executive,Doctorate,Single,2017-12-24,Active,,51229,8,6,3,Yes,Travel_Rarely,3,3,4,63,2
+EMP0698,Female,41,IT,Software Developer,High School,Divorced,2005-07-12,Active,,57713,21,6,5,No,Non-Travel,2,3,3,37,2
+EMP0699,Male,22,Sales,Sales Executive,Master's,Divorced,2025-05-20,Active,,49666,1,0,1,Yes,Travel_Frequently,4,3,3,7,0
+EMP0700,Male,45,Operations,Operations Executive,Master's,Divorced,2004-01-09,Active,,53356,22,2,5,Yes,Travel_Frequently,4,1,3,20,2
+EMP0701,Male,58,Finance,Financial Analyst,High School,Married,2008-12-31,Active,,69176,17,9,5,No,Non-Travel,4,1,3,34,3
+EMP0702,Male,43,Operations,Operations Manager,Master's,Divorced,2014-04-27,Active,,35737,12,0,4,No,Travel_Frequently,3,1,3,41,0
+EMP0703,Male,47,Operations,Operations Executive,High School,Married,2008-10-31,Active,,41646,18,10,5,Yes,Non-Travel,2,4,4,0,1
+EMP0704,Female,34,Data & Analytics,BI Developer,High School,Single,2017-10-02,Active,,64034,9,2,3,Yes,Travel_Frequently,1,3,4,18,4
+EMP0705,Male,49,Marketing,Marketing Manager,High School,Divorced,2006-01-06,Active,,29076,20,2,5,Yes,Travel_Frequently,2,3,2,54,1
+EMP0706,Male,28,Data & Analytics,BI Developer,Master's,Single,2022-06-11,Active,,44595,4,4,2,No,Travel_Rarely,4,4,3,33,0
+EMP0707,Male,32,Marketing,Marketing Manager,High School,Married,2020-08-19,Active,,32968,6,2,2,No,Travel_Frequently,4,3,3,12,0
+EMP0708,Female,40,Marketing,Digital Marketer,High School,Married,2024-04-13,Active,,46795,2,2,1,No,Travel_Frequently,2,2,3,73,1
+EMP0709,Male,47,Marketing,Marketing Executive,Doctorate,Single,2014-11-13,Active,,44496,11,1,3,No,Travel_Rarely,4,4,4,40,2
+EMP0710,Male,29,Finance,Financial Analyst,High School,Single,2015-11-24,Active,,65010,10,5,3,No,Travel_Rarely,1,4,4,3,1
+EMP0711,Male,37,IT,IT Support Specialist,High School,Divorced,2018-09-02,Active,,63961,8,3,3,No,Non-Travel,3,1,3,20,1
+EMP0712,Female,47,IT,IT Support Specialist,High School,Married,2015-11-25,Active,,31528,10,5,3,No,Travel_Rarely,3,2,3,36,3
+EMP0713,Female,57,IT,System Administrator,High School,Married,2013-01-09,Active,,54473,13,7,4,No,Travel_Rarely,2,2,4,14,3
+EMP0714,Male,28,Marketing,Marketing Manager,Doctorate,Divorced,2017-05-03,Active,,42620,9,1,3,No,Travel_Frequently,2,3,2,34,3
+EMP0715,Male,56,Marketing,Marketing Manager,Master's,Married,2006-08-31,Active,,38442,20,0,5,No,Non-Travel,4,1,4,71,0
+EMP0716,Male,54,Operations,Operations Executive,Doctorate,Divorced,2001-10-14,Active,,55917,25,1,5,Yes,Travel_Rarely,2,1,2,78,2
+EMP0717,Female,45,Finance,Financial Analyst,High School,Divorced,2019-06-25,Resigned,2025-11-26,63615,7,5,2,No,Travel_Rarely,2,2,3,76,1
+EMP0718,Male,35,Sales,Sales Executive,Master's,Single,2019-01-04,Active,,62694,7,4,2,No,Non-Travel,2,1,2,32,2
+EMP0719,Female,47,Finance,Finance Manager,Master's,Divorced,2013-03-16,Active,,38270,13,7,4,No,Travel_Frequently,1,2,3,31,2
+EMP0720,Male,21,Finance,Accountant,High School,Divorced,2025-12-22,Active,,39726,0,0,1,No,Travel_Rarely,1,2,2,68,0
+EMP0721,Male,37,Customer Support,Support Manager,High School,Single,2012-08-29,Active,,34708,14,7,4,Yes,Travel_Rarely,4,3,3,32,4
+EMP0722,Female,54,Customer Support,Support Manager,Bachelor's,Single,2011-10-03,Resigned,2015-10-10,62568,15,6,4,No,Travel_Rarely,4,1,3,55,1
+EMP0723,Female,50,Human Resources,Recruiter,Master's,Single,2023-11-15,Active,,52511,2,0,1,No,Non-Travel,1,4,3,62,1
+EMP0724,Male,26,Operations,Operations Manager,Doctorate,Married,2017-05-27,Active,,32805,9,1,3,Yes,Travel_Frequently,3,4,4,68,0
+EMP0725,Female,42,Data & Analytics,Data Scientist,Bachelor's,Divorced,2021-07-23,Resigned,2024-12-17,40652,5,3,2,Yes,Travel_Frequently,2,2,2,51,0
+EMP0726,Male,30,Marketing,Digital Marketer,Bachelor's,Married,2018-11-27,Active,,46777,7,0,2,No,Non-Travel,4,4,4,48,0
+EMP0727,Male,32,Data & Analytics,Data Scientist,High School,Single,2012-10-30,Active,,46762,14,2,4,Yes,Travel_Frequently,3,2,3,30,0
+EMP0728,Female,24,IT,System Administrator,Master's,Married,2025-11-13,Active,,37957,0,0,1,No,Travel_Frequently,4,4,2,49,0
+EMP0729,Female,47,Customer Support,Support Executive,Doctorate,Married,2022-10-05,Resigned,2026-08-28,37402,4,3,2,No,Non-Travel,1,1,3,32,2
+EMP0730,Male,58,Data & Analytics,BI Developer,Bachelor's,Single,2008-12-07,Active,,35749,17,0,5,No,Non-Travel,3,2,4,3,2
+EMP0731,Female,44,Operations,Operations Executive,Doctorate,Divorced,2005-09-26,Active,,22663,21,7,5,Yes,Non-Travel,4,4,3,53,4
+EMP0732,Male,25,Operations,Process Analyst,Master's,Divorced,2018-05-10,Active,,24376,8,5,3,Yes,Travel_Frequently,2,4,3,56,4
+EMP0733,Female,53,Marketing,Digital Marketer,Doctorate,Married,2017-09-03,Active,,48903,9,5,3,Yes,Travel_Frequently,4,1,4,40,0
+EMP0734,Male,27,Operations,Process Analyst,Doctorate,Married,2022-06-30,Active,,63151,4,2,2,Yes,Non-Travel,3,4,4,47,2
+EMP0735,Male,49,Sales,Account Manager,High School,Married,2017-08-24,Active,,35529,9,9,3,No,Travel_Frequently,2,1,3,17,2
+EMP0736,Female,34,Finance,Financial Analyst,Master's,Divorced,2019-01-27,Active,,46571,7,1,2,No,Travel_Rarely,2,2,3,37,1
+EMP0737,Male,29,Marketing,Marketing Executive,Doctorate,Married,2019-05-03,Active,,31279,7,5,2,Yes,Travel_Rarely,1,3,3,45,0
+EMP0738,Female,47,IT,System Administrator,Bachelor's,Married,2024-11-17,Active,,58322,1,0,1,Yes,Non-Travel,1,1,2,55,0
+EMP0739,Male,30,Operations,Operations Executive,High School,Divorced,2022-07-18,Active,,45117,4,0,2,No,Travel_Rarely,2,3,3,29,0
+EMP0740,Female,27,Customer Support,Team Lead,Master's,Married,2020-05-28,Active,,30098,6,2,2,Yes,Travel_Frequently,3,3,3,23,2
+EMP0741,Female,59,Data & Analytics,Data Scientist,Doctorate,Single,2020-07-16,Resigned,2025-04-01,42545,6,4,2,Yes,Travel_Rarely,2,3,3,4,3
+EMP0742,Female,55,Operations,Operations Executive,Doctorate,Divorced,2005-11-14,Active,,40549,20,5,5,No,Travel_Frequently,4,4,3,43,1
+EMP0743,Female,39,Operations,Operations Executive,High School,Single,2007-01-16,Active,,21615,19,3,5,Yes,Travel_Rarely,4,1,3,26,3
+EMP0744,Male,53,Data & Analytics,Data Analyst,Master's,Single,2007-09-21,Active,,74500,19,3,5,Yes,Non-Travel,2,2,4,42,1
+EMP0745,Male,31,Customer Support,Team Lead,Bachelor's,Married,2015-01-07,Active,,62219,11,2,3,No,Travel_Frequently,2,2,3,71,0
+EMP0746,Female,21,Customer Support,Support Executive,Bachelor's,Single,2023-10-16,Active,,30611,3,1,1,Yes,Non-Travel,3,1,3,39,1
+EMP0747,Female,59,Customer Support,Support Executive,Bachelor's,Single,2016-12-12,Active,,45247,9,6,3,Yes,Travel_Rarely,3,1,2,5,1
+EMP0748,Male,29,Sales,Sales Executive,Bachelor's,Single,2014-02-03,Active,,60717,12,10,4,No,Travel_Rarely,1,4,4,15,1
+EMP0749,Female,27,Data & Analytics,Data Analyst,Bachelor's,Married,2018-10-05,Active,,61690,8,2,3,No,Non-Travel,2,1,3,0,1
+EMP0750,Female,33,Marketing,Digital Marketer,Bachelor's,Single,2023-10-31,Active,,41573,3,3,1,No,Travel_Frequently,3,3,3,44,1
+EMP0751,Male,47,Customer Support,Team Lead,Master's,Married,2020-05-01,Active,,27456,6,2,2,Yes,Travel_Rarely,4,1,3,1,2
+EMP0752,Male,50,Data & Analytics,BI Developer,Master's,Single,2012-07-06,Active,,47559,14,6,4,Yes,Travel_Rarely,1,4,3,77,0
+EMP0753,Female,56,Marketing,Marketing Manager,Doctorate,Divorced,2025-05-06,Active,,47045,1,0,1,No,Travel_Rarely,1,1,3,61,0
+EMP0754,Female,46,Finance,Financial Analyst,Doctorate,Divorced,2023-06-03,Active,,41526,3,3,1,Yes,Travel_Rarely,1,2,3,43,0
+EMP0755,Female,55,Data & Analytics,Data Scientist,Bachelor's,Divorced,2012-02-02,Active,,28854,14,1,4,Yes,Travel_Rarely,4,1,3,40,3
+EMP0756,Male,33,Marketing,Marketing Manager,Master's,Married,2016-05-24,Active,,45812,10,2,3,No,Travel_Frequently,3,2,4,79,1
+EMP0757,Female,40,Sales,Sales Manager,Doctorate,Single,2003-06-18,Active,,30008,23,3,5,No,Travel_Frequently,2,3,3,32,1
+EMP0758,Female,35,IT,IT Support Specialist,Master's,Married,2025-07-07,Active,,31022,1,0,1,Yes,Travel_Frequently,4,4,4,23,0
+EMP0759,Male,36,Human Resources,HR Executive,Doctorate,Single,2021-12-24,Active,,26290,4,3,2,No,Non-Travel,4,3,4,1,2
+EMP0760,Male,27,Sales,Sales Executive,Master's,Single,2017-09-04,Active,,54791,9,8,3,No,Travel_Rarely,1,2,3,58,0
+EMP0761,Female,52,Customer Support,Support Executive,High School,Single,2012-06-16,Active,,26880,14,2,4,Yes,Travel_Frequently,4,3,3,29,2
+EMP0762,Male,55,Human Resources,Recruiter,High School,Married,2015-03-08,Active,,49519,11,8,3,No,Non-Travel,1,1,3,79,4
+EMP0763,Male,31,Human Resources,Recruiter,High School,Divorced,2020-01-27,Resigned,2023-09-27,46522,6,3,2,Yes,Travel_Rarely,2,1,3,54,3
+EMP0764,Female,34,Operations,Operations Executive,Bachelor's,Single,2020-05-15,Active,,18046,6,2,2,No,Travel_Frequently,4,2,3,35,0
+EMP0765,Male,26,Operations,Process Analyst,Doctorate,Divorced,2019-12-14,Active,,44874,6,2,2,Yes,Travel_Frequently,1,3,3,19,0
+EMP0766,Female,23,Operations,Operations Manager,High School,Single,2023-01-10,Active,,37066,3,2,1,Yes,Travel_Frequently,2,1,2,67,1
+EMP0767,Female,35,Sales,Account Manager,Doctorate,Married,2013-07-28,Active,,30616,13,6,4,Yes,Non-Travel,3,4,3,4,2
+EMP0768,Female,37,Customer Support,Team Lead,High School,Divorced,2020-04-04,Active,,48587,6,6,2,Yes,Travel_Rarely,1,4,2,66,3
+EMP0769,Male,46,Customer Support,Support Manager,Master's,Divorced,2001-08-17,Active,,24649,25,4,5,No,Travel_Frequently,2,4,3,47,3
+EMP0770,Male,43,Finance,Financial Analyst,High School,Single,2008-02-17,Active,,74475,18,1,5,No,Travel_Rarely,1,3,4,23,3
+EMP0771,Male,33,Sales,Sales Executive,Master's,Married,2013-07-12,Active,,27341,13,9,4,Yes,Non-Travel,2,4,3,11,0
+EMP0772,Male,56,Marketing,Marketing Manager,High School,Single,2007-03-31,Active,,40971,19,10,5,Yes,Travel_Frequently,2,1,2,71,1
+EMP0773,Male,57,Finance,Accountant,Master's,Single,2018-09-16,Active,,36959,8,7,3,No,Travel_Frequently,2,2,2,15,3
+EMP0774,Male,23,Marketing,Marketing Executive,Doctorate,Divorced,2023-04-30,Resigned,2024-08-23,62318,3,0,1,Yes,Travel_Rarely,3,4,3,54,0
+EMP0775,Female,56,IT,IT Support Specialist,High School,Divorced,2016-05-16,Active,,77092,10,10,3,No,Travel_Rarely,2,4,3,20,3
+EMP0776,Female,47,Customer Support,Team Lead,Bachelor's,Single,2014-11-20,Active,,63898,11,0,3,Yes,Travel_Rarely,2,1,4,37,3
+EMP0777,Female,40,Finance,Accountant,Master's,Single,2008-05-07,Resigned,2015-11-18,76666,18,9,5,Yes,Travel_Frequently,2,2,3,70,2
+EMP0778,Male,54,Sales,Sales Manager,High School,Married,2020-08-02,Active,,44708,6,5,2,Yes,Travel_Frequently,3,2,3,57,0
+EMP0779,Male,43,Customer Support,Support Manager,High School,Single,2004-09-10,Active,,28990,22,5,5,No,Travel_Frequently,3,3,3,32,4
+EMP0780,Female,53,Sales,Sales Manager,High School,Divorced,2019-08-19,Active,,56984,7,7,2,Yes,Non-Travel,3,4,3,66,0
+EMP0781,Female,44,Finance,Finance Manager,Master's,Divorced,2024-02-05,Active,,74230,2,1,1,Yes,Travel_Frequently,2,3,2,51,0
+EMP0782,Male,25,Sales,Sales Executive,High School,Divorced,2024-08-18,Active,,41117,2,1,1,No,Non-Travel,1,2,3,7,1
+EMP0783,Female,44,Customer Support,Support Executive,High School,Divorced,2014-12-30,Active,,50142,11,8,3,Yes,Travel_Rarely,1,3,3,23,0
+EMP0784,Male,21,Operations,Operations Manager,Master's,Married,2022-01-13,Active,,22556,4,4,2,Yes,Non-Travel,1,2,2,17,2
+EMP0785,Female,40,Data & Analytics,Data Analyst,Master's,Single,2019-04-28,Active,,60806,7,2,2,Yes,Non-Travel,1,1,2,37,0
+EMP0786,Female,48,Data & Analytics,BI Developer,Master's,Divorced,2013-09-28,Active,,66886,13,4,4,Yes,Travel_Frequently,2,1,2,15,2
+EMP0787,Female,32,Data & Analytics,Data Analyst,High School,Married,2017-09-12,Active,,28877,9,4,3,Yes,Travel_Frequently,2,1,4,4,2
+EMP0788,Male,39,Marketing,Digital Marketer,Master's,Divorced,2007-04-30,Active,,51569,19,10,5,No,Non-Travel,4,1,3,77,4
+EMP0789,Female,38,Operations,Operations Manager,High School,Married,2013-09-23,Active,,35777,13,9,4,No,Travel_Rarely,2,3,3,18,4
+EMP0790,Male,58,IT,System Administrator,High School,Single,2002-09-25,Active,,64799,24,10,5,No,Travel_Rarely,4,3,3,69,3
+EMP0791,Female,38,IT,IT Support Specialist,High School,Single,2021-10-28,Active,,38357,5,5,2,Yes,Non-Travel,2,1,2,55,0
+EMP0792,Male,57,Sales,Sales Executive,Bachelor's,Married,2016-07-14,Active,,43627,10,4,3,Yes,Travel_Frequently,3,3,2,12,3
+EMP0793,Female,30,Marketing,Digital Marketer,Bachelor's,Single,2013-02-21,Active,,47210,13,1,4,Yes,Travel_Frequently,1,3,4,65,4
+EMP0794,Female,46,Sales,Sales Manager,Doctorate,Divorced,2011-11-06,Active,,28699,14,2,4,No,Travel_Rarely,4,4,2,76,4
+EMP0795,Female,23,Human Resources,HR Manager,High School,Single,2023-04-23,Active,,45317,3,3,1,No,Travel_Rarely,1,3,4,15,1
+EMP0796,Female,30,Operations,Process Analyst,Master's,Married,2020-09-29,Active,,28787,6,5,2,Yes,Travel_Frequently,4,4,3,40,1
+EMP0797,Male,39,Sales,Sales Executive,Doctorate,Married,2013-04-29,Resigned,2023-06-15,44253,13,7,4,No,Non-Travel,4,4,4,16,3
+EMP0798,Male,51,Finance,Financial Analyst,Bachelor's,Single,2021-10-19,Active,,44098,5,4,2,Yes,Travel_Rarely,1,3,3,35,2
+EMP0799,Male,22,IT,IT Support Specialist,Doctorate,Single,2022-10-24,Resigned,2026-06-05,53473,4,2,2,Yes,Travel_Rarely,4,3,3,27,2
+EMP0800,Female,46,Marketing,Digital Marketer,Master's,Married,2016-12-04,Resigned,2019-05-24,19700,9,0,3,No,Non-Travel,2,4,3,48,2
+EMP0801,Male,54,Data & Analytics,BI Developer,Doctorate,Divorced,2008-05-18,Active,,61125,18,7,5,Yes,Travel_Rarely,3,3,3,28,4
+EMP0802,Female,26,Human Resources,HR Manager,Master's,Single,2020-07-22,Active,,48023,6,6,2,No,Travel_Frequently,4,2,4,38,1
+EMP0803,Male,39,Finance,Finance Manager,High School,Single,2021-08-25,Active,,34414,5,3,2,No,Travel_Frequently,3,3,3,0,1
+EMP0804,Female,50,Marketing,Marketing Executive,Bachelor's,Divorced,2018-07-02,Active,,56069,8,4,3,Yes,Travel_Frequently,4,4,4,12,2
+EMP0805,Male,35,Finance,Accountant,Bachelor's,Married,2012-02-12,Active,,37063,14,3,4,No,Travel_Rarely,3,3,3,4,0
+EMP0806,Male,38,Finance,Finance Manager,Master's,Single,2005-09-24,Active,,65975,21,0,5,Yes,Travel_Frequently,4,4,3,35,0
+EMP0807,Male,44,Operations,Operations Executive,Master's,Single,2021-02-05,Active,,47822,5,5,2,No,Travel_Frequently,4,4,2,57,0
+EMP0808,Male,21,Finance,Financial Analyst,Doctorate,Single,2023-10-01,Active,,62080,3,0,1,Yes,Travel_Frequently,4,3,3,37,0
+EMP0809,Male,56,Marketing,Marketing Manager,Master's,Married,2002-07-28,Active,,27716,24,9,5,No,Non-Travel,1,2,4,28,0
+EMP0810,Female,21,Customer Support,Support Manager,Doctorate,Single,2024-06-02,Active,,38957,2,2,1,No,Travel_Rarely,4,4,3,0,1
+EMP0811,Female,36,Sales,Sales Manager,High School,Single,2014-11-14,Active,,39445,11,1,3,No,Travel_Rarely,3,3,3,37,3
+EMP0812,Male,52,Operations,Process Analyst,Doctorate,Single,2001-01-04,Active,,19820,25,0,5,Yes,Non-Travel,1,2,2,74,2
+EMP0813,Female,29,Sales,Sales Executive,Master's,Married,2018-02-13,Active,,64260,8,0,3,Yes,Non-Travel,1,1,3,62,2
+EMP0814,Female,31,Operations,Operations Manager,High School,Married,2022-12-04,Active,,50176,3,0,1,No,Travel_Frequently,2,2,4,59,0
+EMP0815,Female,34,Customer Support,Team Lead,Bachelor's,Married,2024-05-03,Active,,27416,2,0,1,No,Travel_Rarely,1,3,3,64,1
+EMP0816,Female,45,Sales,Sales Manager,Doctorate,Divorced,2022-08-25,Active,,45182,4,4,2,No,Travel_Frequently,4,3,3,41,2
+EMP0817,Female,43,IT,System Administrator,Bachelor's,Divorced,2007-09-07,Active,,33442,19,1,5,Yes,Travel_Frequently,3,1,2,16,0
+EMP0818,Male,51,IT,System Administrator,Bachelor's,Single,2001-03-25,Active,,56018,25,3,5,No,Travel_Rarely,3,3,3,19,1
+EMP0819,Female,30,IT,Software Developer,Doctorate,Married,2023-11-16,Active,,61952,2,0,1,No,Non-Travel,4,4,4,46,0
+EMP0820,Female,49,Operations,Operations Executive,Doctorate,Married,2008-11-26,Resigned,2024-01-17,38954,17,6,5,Yes,Travel_Frequently,3,1,3,43,0
+EMP0821,Male,25,Finance,Financial Analyst,Doctorate,Divorced,2023-06-14,Active,,41967,3,1,1,No,Travel_Frequently,2,2,2,62,1
+EMP0822,Male,46,Sales,Account Manager,High School,Divorced,2008-09-03,Active,,35999,18,2,5,No,Travel_Rarely,3,2,2,6,4
+EMP0823,Female,49,Marketing,Marketing Executive,Master's,Divorced,2024-05-01,Active,,43291,2,2,1,Yes,Travel_Frequently,1,3,3,38,0
+EMP0824,Male,55,Customer Support,Support Executive,Master's,Single,2011-03-11,Active,,61269,15,5,4,Yes,Travel_Frequently,1,2,3,8,0
+EMP0825,Male,58,Operations,Operations Executive,Doctorate,Divorced,2002-10-17,Active,,56503,24,0,5,Yes,Travel_Frequently,1,3,2,72,4
+EMP0826,Male,34,Customer Support,Team Lead,Master's,Single,2019-04-08,Active,,42214,7,2,2,Yes,Non-Travel,4,4,3,34,1
+EMP0827,Male,46,Data & Analytics,Data Analyst,Master's,Single,2018-06-20,Active,,72532,8,0,3,Yes,Travel_Frequently,1,1,3,8,0
+EMP0828,Male,51,Customer Support,Support Executive,Doctorate,Married,2021-04-25,Active,,58350,5,5,2,Yes,Travel_Rarely,1,2,3,77,1
+EMP0829,Male,55,Human Resources,HR Executive,Doctorate,Married,2012-01-20,Active,,31706,14,0,4,No,Non-Travel,3,1,3,47,0
+EMP0830,Male,27,IT,IT Support Specialist,High School,Divorced,2021-11-28,Active,,42924,4,2,2,Yes,Travel_Rarely,3,1,3,31,0
+EMP0831,Male,43,Operations,Operations Executive,Master's,Married,2016-12-04,Active,,35101,9,9,3,No,Non-Travel,4,1,3,3,2
+EMP0832,Female,42,Operations,Process Analyst,High School,Divorced,2016-11-25,Active,,62803,9,5,3,No,Travel_Frequently,2,2,3,40,0
+EMP0833,Female,59,Operations,Process Analyst,Doctorate,Divorced,2017-11-03,Active,,42948,9,1,3,Yes,Non-Travel,2,3,2,40,1
+EMP0834,Female,54,IT,System Administrator,High School,Single,2016-01-25,Active,,58712,10,6,3,No,Non-Travel,3,4,3,76,4
+EMP0835,Male,37,Finance,Accountant,Doctorate,Single,2009-02-02,Active,,48901,17,4,5,Yes,Travel_Rarely,3,4,4,29,4
+EMP0836,Male,54,Finance,Finance Manager,Doctorate,Married,2025-08-17,Resigned,2026-02-14,45418,1,1,1,Yes,Travel_Frequently,1,4,2,64,0
+EMP0837,Male,28,IT,System Administrator,High School,Divorced,2025-07-03,Resigned,2026-08-26,51198,1,1,1,Yes,Travel_Frequently,1,2,4,80,0
+EMP0838,Male,26,Operations,Operations Manager,Bachelor's,Divorced,2021-03-10,Active,,26474,5,5,2,No,Travel_Rarely,1,3,4,17,2
+EMP0839,Male,26,Data & Analytics,Data Scientist,Doctorate,Single,2018-09-29,Active,,35905,8,1,3,No,Non-Travel,1,4,2,53,2
+EMP0840,Female,23,Finance,Accountant,Master's,Married,2024-05-26,Active,,38678,2,0,1,No,Travel_Frequently,3,3,4,13,1
+EMP0841,Male,35,Operations,Process Analyst,Master's,Married,2020-10-09,Active,,61374,6,5,2,Yes,Travel_Frequently,2,4,3,26,2
+EMP0842,Female,29,Sales,Account Manager,High School,Single,2017-02-21,Active,,37904,9,9,3,Yes,Travel_Frequently,4,3,3,18,0
+EMP0843,Female,56,Sales,Sales Manager,Doctorate,Divorced,2011-01-11,Active,,59493,15,6,4,Yes,Non-Travel,3,3,4,33,3
+EMP0844,Male,22,Marketing,Marketing Executive,Master's,Single,2021-09-25,Active,,63975,5,3,2,Yes,Non-Travel,3,1,3,7,0
+EMP0845,Male,51,Sales,Sales Executive,Master's,Divorced,2025-05-16,Resigned,2026-05-09,52696,1,0,1,No,Non-Travel,4,4,2,39,0
+EMP0846,Female,43,Data & Analytics,BI Developer,Bachelor's,Divorced,2015-12-01,Active,,40875,10,2,3,Yes,Travel_Frequently,4,4,4,36,1
+EMP0847,Male,58,Human Resources,HR Executive,Doctorate,Married,2005-10-17,Active,,30828,21,8,5,No,Travel_Frequently,2,2,3,71,3
+EMP0848,Male,58,Data & Analytics,BI Developer,Bachelor's,Single,2018-01-06,Active,,46285,8,5,3,Yes,Non-Travel,3,3,3,30,2
+EMP0849,Male,43,Operations,Process Analyst,Bachelor's,Divorced,2004-12-03,Active,,20231,21,2,5,Yes,Non-Travel,3,4,4,14,0
+EMP0850,Male,47,Customer Support,Team Lead,Master's,Single,2018-01-01,Active,,31475,8,0,3,Yes,Travel_Frequently,3,1,3,66,1
+EMP0851,Female,54,Customer Support,Support Manager,Bachelor's,Divorced,2021-10-30,Active,,59407,5,5,2,Yes,Non-Travel,3,1,3,20,0
+EMP0852,Female,51,Data & Analytics,Data Analyst,Bachelor's,Single,2024-05-07,Active,,40806,2,0,1,No,Travel_Rarely,4,4,2,44,0
+EMP0853,Female,55,Operations,Operations Manager,Bachelor's,Single,2005-08-05,Active,,51289,21,10,5,No,Travel_Frequently,3,4,3,28,0
+EMP0854,Female,32,Sales,Sales Manager,Master's,Married,2025-05-02,Active,,40026,1,1,1,No,Travel_Rarely,4,2,3,30,0
+EMP0855,Male,27,Finance,Financial Analyst,High School,Single,2022-08-07,Active,,42034,4,1,2,No,Travel_Rarely,2,1,3,46,0
+EMP0856,Female,42,Marketing,Marketing Executive,Master's,Divorced,2021-07-02,Active,,25361,5,4,2,Yes,Travel_Rarely,2,2,3,46,2
+EMP0857,Female,37,Operations,Operations Manager,High School,Divorced,2020-11-12,Active,,55734,5,4,2,Yes,Travel_Frequently,1,4,3,77,0
+EMP0858,Female,51,IT,System Administrator,High School,Divorced,2021-01-12,Active,,54913,5,4,2,Yes,Travel_Rarely,4,3,3,73,2
+EMP0859,Female,23,Operations,Operations Manager,Bachelor's,Married,2023-02-25,Active,,44618,3,0,1,Yes,Travel_Rarely,2,4,4,13,0
+EMP0860,Male,54,Customer Support,Team Lead,Bachelor's,Single,2003-07-16,Resigned,2022-01-22,25998,23,8,5,Yes,Travel_Rarely,4,3,3,46,3
+EMP0861,Female,44,Marketing,Marketing Manager,Master's,Divorced,2024-12-22,Active,,22769,1,1,1,Yes,Travel_Frequently,3,3,3,22,0
+EMP0862,Female,26,IT,IT Support Specialist,Doctorate,Married,2020-02-08,Active,,65041,6,5,2,No,Travel_Frequently,2,3,4,9,1
+EMP0863,Male,42,Sales,Sales Manager,Doctorate,Divorced,2011-03-29,Active,,21915,15,10,4,Yes,Travel_Frequently,1,1,3,5,0
+EMP0864,Female,47,Operations,Process Analyst,High School,Married,2021-03-01,Active,,31262,5,0,2,No,Travel_Rarely,2,3,3,62,1
+EMP0865,Male,34,Marketing,Digital Marketer,Doctorate,Married,2010-08-16,Resigned,2015-09-27,36978,16,8,5,No,Travel_Rarely,1,4,3,36,0
+EMP0866,Male,55,IT,IT Support Specialist,Master's,Divorced,2019-12-16,Active,,70948,6,6,2,Yes,Travel_Frequently,4,3,3,33,0
+EMP0867,Female,57,Marketing,Marketing Manager,High School,Single,2022-04-28,Active,,49720,4,3,2,No,Travel_Frequently,3,2,3,62,2
+EMP0868,Male,40,Marketing,Marketing Executive,High School,Single,2013-10-26,Active,,38435,13,0,4,Yes,Travel_Rarely,4,1,3,33,1
+EMP0869,Male,31,Data & Analytics,BI Developer,Doctorate,Divorced,2016-10-01,Active,,56062,10,7,3,Yes,Travel_Rarely,4,3,3,11,2
+EMP0870,Male,49,Customer Support,Support Manager,Doctorate,Married,2019-05-22,Active,,49300,7,0,2,Yes,Travel_Frequently,4,1,4,10,1
+EMP0871,Male,41,Operations,Operations Executive,Master's,Divorced,2019-09-24,Active,,24163,7,2,2,Yes,Travel_Rarely,4,3,3,76,1
+EMP0872,Female,44,Customer Support,Support Executive,Master's,Divorced,2003-07-24,Active,,40951,23,7,5,Yes,Travel_Rarely,2,1,4,5,0
+EMP0873,Male,45,Finance,Accountant,Master's,Single,2016-04-13,Active,,65213,10,5,3,No,Non-Travel,2,2,4,0,2
+EMP0874,Male,35,Finance,Finance Manager,Master's,Single,2014-10-28,Active,,49705,12,7,4,No,Travel_Rarely,4,3,2,75,0
+EMP0875,Male,51,Sales,Sales Manager,High School,Single,2013-01-19,Active,,41617,13,0,4,No,Travel_Frequently,3,4,2,17,3
+EMP0876,Female,29,Sales,Sales Manager,Bachelor's,Divorced,2019-07-28,Active,,37290,7,7,2,Yes,Non-Travel,4,3,3,3,3
+EMP0877,Male,58,Customer Support,Team Lead,High School,Single,2012-03-04,Active,,31767,14,10,4,Yes,Non-Travel,3,1,4,71,4
+EMP0878,Female,43,Human Resources,HR Manager,Doctorate,Divorced,2009-03-06,Active,,32139,17,10,5,No,Travel_Rarely,2,4,3,47,4
+EMP0879,Female,27,Operations,Process Analyst,Master's,Divorced,2016-12-19,Active,,40079,9,8,3,Yes,Travel_Frequently,3,3,3,11,4
+EMP0880,Male,50,Sales,Sales Executive,High School,Divorced,2016-10-20,Active,,19518,10,7,3,No,Travel_Frequently,3,2,3,72,4
+EMP0881,Male,44,Human Resources,Recruiter,Doctorate,Single,2001-10-12,Active,,33696,25,5,5,No,Non-Travel,1,3,3,14,3
+EMP0882,Female,56,Operations,Operations Manager,High School,Single,2011-12-30,Active,,59927,14,1,4,No,Non-Travel,3,4,3,31,0
+EMP0883,Female,52,Operations,Process Analyst,High School,Divorced,2016-05-20,Active,,61545,10,9,3,Yes,Travel_Frequently,1,1,4,22,4
+EMP0884,Female,49,Sales,Sales Executive,Master's,Divorced,2003-06-14,Active,,50157,23,8,5,No,Travel_Rarely,1,2,3,13,2
+EMP0885,Female,21,Human Resources,Recruiter,High School,Divorced,2022-12-03,Active,,22825,3,1,1,Yes,Travel_Rarely,3,4,3,12,1
+EMP0886,Female,36,Customer Support,Support Manager,Bachelor's,Divorced,2009-10-09,Active,,52096,17,2,5,Yes,Travel_Frequently,4,2,3,79,2
+EMP0887,Male,46,Sales,Sales Executive,High School,Single,2025-04-28,Active,,61929,1,1,1,Yes,Travel_Rarely,2,2,4,13,0
+EMP0888,Male,38,Sales,Sales Manager,Bachelor's,Single,2021-12-18,Active,,48797,4,2,2,Yes,Travel_Frequently,4,4,4,77,0
+EMP0889,Male,21,Finance,Accountant,Bachelor's,Divorced,2025-05-18,Active,,33732,1,0,1,Yes,Travel_Rarely,4,3,3,14,0
+EMP0890,Female,33,Operations,Operations Executive,Master's,Married,2022-01-02,Active,,37940,4,2,2,Yes,Travel_Rarely,1,1,2,13,2
+EMP0891,Female,56,Human Resources,Recruiter,Bachelor's,Divorced,2025-06-27,Active,,47674,1,0,1,Yes,Travel_Rarely,1,1,3,71,0
+EMP0892,Male,53,Marketing,Marketing Executive,Master's,Single,2018-10-25,Active,,27155,8,2,3,Yes,Travel_Rarely,4,1,3,78,4
+EMP0893,Male,38,Customer Support,Team Lead,Bachelor's,Married,2006-01-06,Active,,38646,20,5,5,Yes,Travel_Frequently,4,3,3,22,1
+EMP0894,Male,35,Finance,Accountant,Bachelor's,Divorced,2015-09-22,Active,,64195,11,7,3,No,Travel_Frequently,2,3,3,66,0
+EMP0895,Female,30,Operations,Process Analyst,High School,Single,2025-09-07,Resigned,2026-02-20,35588,1,0,1,No,Travel_Frequently,2,2,3,43,0
+EMP0896,Male,40,Customer Support,Support Executive,Master's,Married,2013-10-26,Active,,64611,13,7,4,No,Travel_Frequently,1,4,3,17,3
+EMP0897,Female,53,Finance,Financial Analyst,Master's,Married,2012-11-07,Active,,72284,13,9,4,No,Travel_Rarely,4,4,2,76,1
+EMP0898,Female,41,Finance,Finance Manager,Master's,Married,2017-01-29,Active,,61328,9,2,3,No,Travel_Frequently,1,3,2,5,1
+EMP0899,Male,45,IT,Software Developer,Master's,Married,2010-09-18,Active,,54947,16,7,5,No,Travel_Rarely,1,3,2,59,2
+EMP0900,Male,26,Customer Support,Support Executive,Master's,Divorced,2023-11-23,Active,,63485,2,0,1,Yes,Non-Travel,4,3,3,29,1
+EMP0901,Female,36,Data & Analytics,Data Analyst,High School,Married,2022-02-23,Active,,50871,4,3,2,No,Travel_Rarely,4,2,3,64,0
+EMP0902,Male,48,IT,System Administrator,Bachelor's,Married,2005-03-21,Resigned,2020-07-12,64664,21,4,5,Yes,Travel_Rarely,4,3,2,13,0
+EMP0903,Female,42,IT,Software Developer,High School,Single,2011-01-06,Resigned,2011-10-30,58796,15,10,4,Yes,Travel_Rarely,4,4,2,32,1
+EMP0904,Female,56,Sales,Sales Executive,High School,Single,2004-04-24,Active,,40338,22,1,5,Yes,Travel_Rarely,1,4,2,3,4
+EMP0905,Female,34,Sales,Sales Manager,High School,Single,2024-02-29,Active,,27990,2,2,1,Yes,Travel_Rarely,3,1,3,68,0
+EMP0906,Female,31,Customer Support,Support Executive,High School,Married,2012-09-27,Active,,43649,14,8,4,No,Travel_Rarely,3,3,3,9,0
+EMP0907,Male,43,Finance,Finance Manager,Doctorate,Divorced,2023-12-31,Active,,29796,2,1,1,No,Travel_Frequently,1,1,3,57,1
+EMP0908,Male,45,Sales,Account Manager,High School,Divorced,2002-01-28,Active,,19444,24,2,5,No,Travel_Rarely,2,3,3,35,0
+EMP0909,Female,23,Marketing,Marketing Executive,High School,Single,2021-02-20,Active,,35782,5,3,2,Yes,Non-Travel,4,3,4,8,1
+EMP0910,Male,59,Operations,Process Analyst,Bachelor's,Divorced,2014-04-26,Active,,60732,12,8,4,Yes,Non-Travel,3,1,3,75,0
+EMP0911,Male,42,Data & Analytics,Data Analyst,Bachelor's,Divorced,2010-02-20,Active,,26256,16,5,5,No,Travel_Rarely,4,2,3,42,0
+EMP0912,Female,57,Customer Support,Support Manager,Master's,Divorced,2014-10-26,Active,,56296,12,4,4,Yes,Non-Travel,2,4,3,38,0
+EMP0913,Female,39,IT,System Administrator,High School,Single,2012-05-16,Resigned,2026-06-13,37403,14,5,4,No,Travel_Rarely,2,1,4,17,3
+EMP0914,Male,42,Human Resources,HR Executive,High School,Divorced,2008-08-10,Active,,28396,18,8,5,Yes,Travel_Rarely,3,3,3,77,3
+EMP0915,Male,30,Marketing,Digital Marketer,High School,Divorced,2022-11-02,Active,,25914,4,1,2,Yes,Non-Travel,1,4,3,11,1
+EMP0916,Female,50,Data & Analytics,Data Analyst,High School,Married,2012-12-27,Active,,38331,13,8,4,Yes,Travel_Rarely,3,3,4,50,4
+EMP0917,Male,43,Human Resources,Recruiter,Bachelor's,Divorced,2016-03-29,Active,,54081,10,2,3,No,Non-Travel,1,1,3,63,2
+EMP0918,Female,25,Customer Support,Team Lead,Bachelor's,Single,2021-07-13,Active,,41587,5,4,2,Yes,Travel_Frequently,3,3,3,12,1
+EMP0919,Female,55,Customer Support,Team Lead,Doctorate,Single,2022-02-06,Active,,39008,4,2,2,Yes,Travel_Rarely,2,4,3,0,2
+EMP0920,Male,43,Data & Analytics,Data Analyst,Master's,Married,2000-07-11,Active,,55165,26,3,5,Yes,Non-Travel,4,3,3,41,2
+EMP0921,Female,51,Sales,Account Manager,High School,Married,2001-12-22,Resigned,2023-01-25,41491,24,1,5,Yes,Non-Travel,2,1,2,60,0
+EMP0922,Female,46,Sales,Sales Executive,Doctorate,Married,2007-10-30,Active,,58673,19,10,5,Yes,Non-Travel,4,2,3,74,3
+EMP0923,Female,22,Operations,Operations Manager,High School,Divorced,2025-10-05,Active,,30306,1,1,1,No,Travel_Rarely,4,1,3,80,0
+EMP0924,Female,31,Data & Analytics,BI Developer,Master's,Single,2023-12-01,Active,,39334,2,2,1,No,Travel_Frequently,2,1,4,37,0
+EMP0925,Male,35,Operations,Operations Executive,Master's,Divorced,2015-11-29,Active,,23731,10,6,3,No,Travel_Frequently,4,1,3,54,4
+EMP0926,Female,53,IT,Software Developer,Doctorate,Married,2019-06-01,Active,,66223,7,7,2,No,Non-Travel,2,1,2,59,2
+EMP0927,Male,53,Customer Support,Team Lead,High School,Married,2018-11-27,Active,,31209,7,3,2,No,Travel_Frequently,1,2,3,75,2
+EMP0928,Male,59,Sales,Sales Manager,Bachelor's,Married,2001-04-24,Active,,50038,25,5,5,Yes,Travel_Rarely,1,1,3,1,0
+EMP0929,Male,36,Data & Analytics,Data Scientist,Master's,Single,2012-06-04,Active,,54885,14,7,4,Yes,Travel_Rarely,1,3,3,63,1
+EMP0930,Male,33,Data & Analytics,BI Developer,High School,Single,2025-01-17,Active,,72234,1,0,1,No,Travel_Rarely,1,4,3,30,0
+EMP0931,Female,46,IT,Software Developer,High School,Single,2011-04-09,Active,,64297,15,6,4,No,Travel_Frequently,4,3,2,49,2
+EMP0932,Male,50,Data & Analytics,BI Developer,High School,Divorced,2002-07-16,Active,,43534,24,2,5,No,Non-Travel,1,1,2,70,1
+EMP0933,Male,23,Sales,Sales Manager,Doctorate,Divorced,2024-08-07,Active,,43749,2,1,1,Yes,Non-Travel,2,2,3,19,1
+EMP0934,Male,25,Finance,Accountant,High School,Married,2024-03-25,Active,,61181,2,1,1,No,Non-Travel,4,1,3,55,1
+EMP0935,Female,47,Sales,Sales Manager,High School,Divorced,2006-03-06,Active,,60534,20,0,5,Yes,Travel_Rarely,4,2,3,51,4
+EMP0936,Male,40,Data & Analytics,BI Developer,Doctorate,Married,2021-12-23,Resigned,2025-05-13,73875,4,3,2,Yes,Travel_Rarely,2,1,3,68,0
+EMP0937,Male,57,Human Resources,HR Executive,Doctorate,Divorced,2009-01-11,Resigned,2015-05-17,34678,17,6,5,Yes,Travel_Rarely,2,3,2,12,0
+EMP0938,Male,36,Finance,Financial Analyst,Master's,Single,2016-05-27,Active,,33419,10,3,3,Yes,Travel_Rarely,4,1,3,52,2
+EMP0939,Male,29,Finance,Finance Manager,Doctorate,Divorced,2016-02-07,Active,,34104,10,5,3,No,Travel_Rarely,2,4,3,55,1
+EMP0940,Male,58,IT,IT Support Specialist,Master's,Married,2002-01-06,Active,,56731,24,8,5,No,Travel_Rarely,4,3,2,27,2
+EMP0941,Female,59,Finance,Finance Manager,High School,Married,2010-12-02,Active,,57619,15,0,4,No,Travel_Frequently,3,1,3,7,1
+EMP0942,Male,29,Finance,Financial Analyst,Doctorate,Single,2021-01-01,Active,,64277,5,4,2,No,Travel_Rarely,2,3,2,45,0
+EMP0943,Female,35,Sales,Account Manager,Master's,Married,2011-06-25,Active,,44100,15,0,4,No,Travel_Rarely,1,4,4,78,4
+EMP0944,Male,44,Sales,Sales Manager,Master's,Divorced,2009-01-11,Active,,36301,17,8,5,Yes,Non-Travel,1,3,3,50,0
+EMP0945,Female,22,Sales,Sales Executive,Doctorate,Single,2024-10-30,Active,,18712,2,0,1,Yes,Non-Travel,3,1,3,20,1
+EMP0946,Male,54,IT,System Administrator,Bachelor's,Married,2000-02-23,Active,,46120,26,6,5,Yes,Non-Travel,3,1,4,14,1
+EMP0947,Male,42,Sales,Sales Manager,Doctorate,Single,2004-08-16,Resigned,2005-12-03,56325,22,0,5,Yes,Travel_Frequently,2,4,4,3,3
+EMP0948,Male,54,Data & Analytics,Data Analyst,Bachelor's,Married,2007-06-08,Active,,41205,19,0,5,No,Non-Travel,2,4,3,56,1
+EMP0949,Female,42,Finance,Financial Analyst,High School,Divorced,2012-05-19,Active,,61392,14,2,4,No,Travel_Frequently,2,1,4,79,0
+EMP0950,Male,30,Operations,Process Analyst,Bachelor's,Single,2025-07-23,Active,,59881,1,1,1,No,Travel_Rarely,2,4,3,42,0
+EMP0951,Female,40,Sales,Account Manager,High School,Single,2013-03-20,Active,,37529,13,2,4,Yes,Travel_Frequently,3,3,2,8,1
+EMP0952,Female,47,Data & Analytics,Data Analyst,Bachelor's,Single,2002-10-29,Active,,64453,24,3,5,Yes,Non-Travel,1,1,3,63,4
+EMP0953,Female,37,Customer Support,Support Manager,Bachelor's,Single,2007-10-23,Active,,64642,19,6,5,Yes,Travel_Frequently,2,4,3,47,4
+EMP0954,Female,34,Sales,Sales Manager,Bachelor's,Single,2015-08-18,Active,,20027,11,1,3,No,Non-Travel,1,4,3,25,4
+EMP0955,Male,30,Human Resources,HR Executive,Doctorate,Single,2013-05-01,Active,,64373,13,4,4,No,Travel_Frequently,2,2,3,41,2
+EMP0956,Male,59,IT,Software Developer,Master's,Single,2024-08-16,Resigned,2025-12-10,59238,2,2,1,Yes,Non-Travel,4,4,3,56,0
+EMP0957,Male,45,Marketing,Marketing Executive,High School,Divorced,2020-07-17,Active,,49840,6,5,2,Yes,Non-Travel,1,4,3,78,3
+EMP0958,Female,25,IT,Software Developer,High School,Single,2023-12-22,Active,,73765,2,2,1,Yes,Travel_Frequently,3,3,3,39,0
+EMP0959,Male,31,Human Resources,HR Manager,Bachelor's,Married,2017-11-10,Active,,28849,8,2,3,No,Travel_Frequently,1,1,4,44,2
+EMP0960,Female,24,Sales,Sales Executive,Doctorate,Divorced,2020-10-02,Active,,36595,6,3,2,No,Travel_Rarely,3,1,3,14,2
+EMP0961,Female,35,Data & Analytics,BI Developer,Master's,Married,2010-09-29,Active,,71897,16,7,5,No,Non-Travel,3,2,2,7,0
+EMP0962,Female,49,IT,System Administrator,Master's,Divorced,2003-06-08,Active,,70822,23,6,5,No,Non-Travel,3,1,3,4,0
+EMP0963,Male,21,Marketing,Marketing Manager,High School,Divorced,2025-02-27,Resigned,2025-12-26,28125,1,0,1,No,Travel_Frequently,2,1,3,44,0
+EMP0964,Female,50,Finance,Accountant,High School,Single,2025-02-04,Active,,52208,1,1,1,Yes,Non-Travel,4,3,2,36,0
+EMP0965,Female,37,Human Resources,HR Manager,Doctorate,Married,2024-03-23,Resigned,2024-12-15,28537,2,2,1,No,Travel_Frequently,4,4,3,79,0
+EMP0966,Male,43,Sales,Sales Executive,Bachelor's,Divorced,2001-08-25,Active,,60999,25,10,5,Yes,Travel_Frequently,4,3,2,51,2
+EMP0967,Female,37,Sales,Sales Executive,Master's,Divorced,2009-09-24,Active,,40128,17,6,5,Yes,Travel_Frequently,3,2,3,63,1
+EMP0968,Male,31,Marketing,Marketing Executive,Doctorate,Divorced,2023-05-22,Active,,41555,3,1,1,Yes,Travel_Frequently,3,2,4,52,0
+EMP0969,Male,56,Finance,Accountant,Master's,Single,2020-04-06,Active,,70008,6,3,2,No,Non-Travel,2,4,2,58,2
+EMP0970,Female,42,Human Resources,HR Executive,High School,Single,2005-06-08,Active,,60273,21,0,5,No,Travel_Rarely,4,1,2,77,2
+EMP0971,Female,29,Data & Analytics,Data Scientist,Doctorate,Single,2022-08-27,Active,,66599,4,2,2,Yes,Non-Travel,3,2,3,68,1
+EMP0972,Female,53,Human Resources,HR Manager,Doctorate,Single,2022-04-04,Active,,25108,4,3,2,No,Travel_Frequently,3,3,2,35,1
+EMP0973,Female,55,Human Resources,Recruiter,Master's,Divorced,2003-01-29,Active,,47514,23,10,5,No,Travel_Rarely,2,2,3,58,1
+EMP0974,Female,55,Finance,Financial Analyst,High School,Single,2024-07-26,Active,,33545,2,1,1,No,Travel_Rarely,2,2,4,59,1
+EMP0975,Female,47,Sales,Account Manager,Bachelor's,Single,2009-05-03,Active,,37916,17,4,5,Yes,Travel_Frequently,4,1,4,49,3
+EMP0976,Male,44,Operations,Process Analyst,High School,Single,2005-09-08,Active,,56249,21,7,5,No,Travel_Rarely,1,4,3,74,1
+EMP0977,Male,46,Human Resources,HR Manager,Doctorate,Single,2023-04-24,Active,,31354,3,3,1,Yes,Travel_Frequently,1,1,3,71,1
+EMP0978,Male,47,Data & Analytics,Data Analyst,Master's,Single,2009-10-08,Active,,27932,17,7,5,No,Travel_Rarely,3,3,2,10,1
+EMP0979,Male,22,Customer Support,Team Lead,Master's,Single,2023-10-23,Resigned,2025-09-13,52878,3,2,1,No,Travel_Rarely,1,1,3,66,1
+EMP0980,Male,54,Finance,Accountant,Bachelor's,Divorced,2016-02-14,Active,,39977,10,6,3,No,Travel_Rarely,3,4,3,68,4
+EMP0981,Female,32,IT,IT Support Specialist,Doctorate,Married,2020-04-29,Active,,55664,6,5,2,Yes,Travel_Rarely,1,4,3,31,2
+EMP0982,Male,50,IT,System Administrator,Doctorate,Divorced,2003-09-11,Active,,33120,23,4,5,No,Travel_Frequently,2,4,3,72,2
+EMP0983,Female,40,Sales,Sales Executive,Bachelor's,Single,2021-03-02,Active,,36846,5,2,2,Yes,Travel_Rarely,1,3,2,67,1
+EMP0984,Male,59,Finance,Finance Manager,Bachelor's,Single,2000-02-27,Active,,43708,26,4,5,No,Travel_Rarely,3,2,4,69,0
+EMP0985,Female,30,Operations,Operations Executive,Master's,Married,2024-07-19,Active,,57700,2,1,1,No,Travel_Rarely,4,4,3,33,0
+EMP0986,Male,54,Human Resources,HR Manager,Bachelor's,Single,2015-07-25,Active,,33571,11,9,3,No,Travel_Frequently,2,2,2,21,4
+EMP0987,Female,38,IT,IT Support Specialist,Doctorate,Married,2022-01-31,Active,,34879,4,2,2,Yes,Travel_Frequently,3,4,4,10,0
+EMP0988,Female,42,Finance,Financial Analyst,Doctorate,Married,2012-06-12,Active,,74008,14,2,4,Yes,Travel_Frequently,1,4,3,71,3
+EMP0989,Male,32,Finance,Finance Manager,Bachelor's,Divorced,2012-06-06,Active,,67272,14,8,4,No,Non-Travel,1,4,3,51,1
+EMP0990,Male,56,Human Resources,HR Executive,High School,Single,2006-08-03,Active,,38797,20,6,5,No,Travel_Rarely,4,2,4,43,4
+EMP0991,Male,34,Sales,Account Manager,Bachelor's,Married,2023-09-27,Active,,53085,3,2,1,No,Non-Travel,1,1,3,69,1
+EMP0992,Male,28,Sales,Sales Executive,Bachelor's,Married,2020-11-04,Active,,27772,5,0,2,No,Travel_Rarely,3,4,2,29,2
+EMP0993,Female,44,Data & Analytics,Data Scientist,Doctorate,Divorced,2004-11-21,Active,,45556,21,6,5,No,Travel_Frequently,1,2,3,30,0
+EMP0994,Male,33,IT,System Administrator,High School,Single,2022-04-09,Active,,50001,4,4,2,Yes,Travel_Rarely,2,4,3,78,1
+EMP0995,Female,36,Marketing,Marketing Executive,Bachelor's,Single,2013-01-01,Active,,58357,13,3,4,No,Non-Travel,4,2,3,45,4
+EMP0996,Female,45,Data & Analytics,Data Scientist,Master's,Single,2007-01-13,Active,,55800,19,2,5,No,Non-Travel,3,2,3,42,0
+EMP0997,Female,26,Marketing,Marketing Executive,Bachelor's,Married,2018-04-15,Resigned,2018-12-18,30933,8,8,3,No,Travel_Rarely,4,4,2,42,0
+EMP0998,Female,37,Finance,Finance Manager,High School,Divorced,2007-02-28,Active,,68393,19,10,5,No,Non-Travel,4,2,3,20,3
+EMP0999,Male,36,Operations,Operations Executive,Bachelor's,Single,2011-09-18,Active,,43952,15,8,4,Yes,Non-Travel,4,1,2,21,3
+EMP1000,Male,22,IT,Software Developer,Master's,Divorced,2022-08-30,Active,,49028,4,4,2,No,Travel_Frequently,3,3,3,15,0
